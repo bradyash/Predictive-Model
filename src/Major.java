@@ -35,4 +35,11 @@ public class Major {
     public void setEnrolled(int e) {
         enrolled = e;
     }
+
+    public ArrayList<Course> getCourses() {
+        return courses;
+    }
+    public void setCourses(ArrayList<Course> c) {
+        courses = c;
+    }
 }
