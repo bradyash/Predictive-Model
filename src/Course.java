@@ -1,35 +1,35 @@
 public class Course {
-    private String name;
-    private Integer number;
+    private String prefix;
+    private String number;
 
     public Course() {
-        name = "";
-        number = 0;
+        prefix = "";
+        number = "";
     }
 
     public Course(String n) {
-        name = n;
-        number = 0;
+        prefix = n;
+        number = "";
     }
 
-    public Course(String n, int e) {
-        name = n;
+    public Course(String n, String e) {
+        prefix = n;
         number = e;
     }
 
     public String getName() {
-        return name;
+        return prefix;
     }
 
-    public Integer getNumber() {
+    public String getNumber() {
         return number;
     }
 
     public void setName(String n) {
-        name = n;
+        prefix = n;
     }
 
-    public void setNumber(int a) {
+    public void setNumber(String a) {
         number = a;
     }
 }

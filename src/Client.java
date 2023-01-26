@@ -1,4 +1,5 @@
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Client {
@@ -9,5 +10,10 @@ public class Client {
             total += majors.get(s).getEnrolled();
         }
         System.out.println("Grand Total: " + total);
+
+        ArrayList<Course> courses = ReadPlans.readPlan();
+        for (Course cours : courses) {
+            System.out.println(cours.getName() + " " + cours.getNumber());
+        }
     }
 }
