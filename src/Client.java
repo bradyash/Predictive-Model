@@ -20,6 +20,9 @@ public class Client {
             }
         }
         System.out.println("Grand Total: " + total);
+        System.out.println("   ---   ---   ---   ---   ---   ---   ---   ---");
+
+        collectFiles.collectFiles("C:\\Users\\brady\\Downloads\\OneDrive_2023-01-25\\Degree plan files");
 
 //        for (Course cours : courses) {
 //            System.out.println(cours.getName() + " " + cours.getNumber());

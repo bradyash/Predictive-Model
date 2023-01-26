@@ -11,9 +11,25 @@ public class collectFiles {
             e.printStackTrace();
         }
 
-        File[] contents = root.listFiles();
+        // File[] contents = root.listFiles();
         // TODO: Figure out a recursive way to traverse files. Tree?
+        tree(root);
 
         return null;
+    }
+
+    public static void tree(File f) {
+        File file = f;
+
+        if (!file.isDirectory()) {
+            System.out.println(f.getName());
+            return;
+        }
+
+        String files[] = file.list();
+        for (int i = 0; i < files.length; i++) {
+            tree(new File(f.getName() + File.separator + files[i]));
+            //System.out.println(f.getName() + File.separator + files[i]);
+        }
     }
 }
