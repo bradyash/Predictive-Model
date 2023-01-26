@@ -15,7 +15,6 @@ public class ReadPlans {
         String[] line = read.nextLine().split(",");
         String[]temp = line[1].split("-");
         String majorName = temp[0].strip();
-        System.out.println(majorName);
 
         // Initialize the major, and find it in our Hashmap
         Major major = null;
