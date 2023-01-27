@@ -20,6 +20,7 @@ public class readEnrolled {
                 for(int x = 0; x < temp.length - 1; x++) {
                     line = line + temp[x];
                 }
+                line = line.substring(1, line.length()-1);
                 temp = new String[2];
                 temp[0] = line;
                 temp[1] = num;

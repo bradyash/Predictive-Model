@@ -5,16 +5,35 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class ReadPlans {
-    public static ArrayList<Course> readPlan(HashMap<String, Major> majors) throws FileNotFoundException {
+    public static ArrayList<Course> readPlan(HashMap<String, Major> majors, File f) throws FileNotFoundException {
         // Initialize ArrayList, set up file and scanner.
         ArrayList<Course> courses = new ArrayList<>();
-        File file = new File("C:\\Users\\brady\\IdeaProjects\\Provost Office\\src\\degree-plan - BUAC.csv");
+        File file = null;
+        try {
+            file = f;
+        }
+        catch (Exception e) {
+            System.out.println("ERROR: File does not exist");
+            System.exit(1);
+        }
         Scanner read = new Scanner(file);
 
         // Get the name of the Major
+        if(!read.hasNextLine()) {
+            System.out.println("ERROR: Empty .csv file. Path: " + file.getPath());
+            return null;
+        }
+
+        // TODO: Fix logic to work with 'K-8'... Maybe create a dictionary to check against, then
+        // TODO: use whatever it is in the dict??
         String[] line = read.nextLine().split(",");
-        String[]temp = line[1].split("-");
+        String[]temp = line[1].split("-"); // this line is an issue
         String majorName = temp[0].strip();
+        if ('"' == majorName.charAt(0)) {
+            majorName = majorName.substring(1);
+        }
+        //majorName = majorName.replaceAll("[^a-zA-Z0-9 ]", "");
+        //System.out.println(majorName);
 
         // Initialize the major, and find it in our Hashmap
         Major major = null;
@@ -23,8 +42,8 @@ public class ReadPlans {
         }
         // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
-            System.out.println("ERROR: Major not in system");
-            System.exit(1);
+            System.out.println("ERROR: Major \"" + majorName + "\" not in system");
+            return null;
         }
 
         // removes trash lines
