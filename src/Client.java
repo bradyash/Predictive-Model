@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -21,12 +22,9 @@ public class Client {
         }
         System.out.println("Grand Total: " + total);
         System.out.println("   ---   ---   ---   ---   ---   ---   ---   ---");
-
-        collectFiles.collectFiles("C:\\Users\\brady\\Downloads\\OneDrive_2023-01-25\\Degree plan files");
-
-//        for (Course cours : courses) {
-//            System.out.println(cours.getName() + " " + cours.getNumber());
-//        }
+        long time3 = System.currentTimeMillis();
+        ArrayList<File> allFiles = collectFiles.collectFiles("C:\\Users\\brady\\Downloads\\OneDrive_2023-01-25\\Degree plan files");
+        System.out.println("Run time of collectFiles: " + (System.currentTimeMillis() - time3));
 
 
     }
