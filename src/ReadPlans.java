@@ -32,7 +32,26 @@ public class ReadPlans {
         if ('"' == majorName.charAt(0)) {
             majorName = majorName.substring(1);
         }
-        //majorName = majorName.replaceAll("[^a-zA-Z0-9 ]", "");
+        if("K".equals(majorName.substring(majorName.length()-1))) {
+            char[] secondString = temp[1].strip().toCharArray();
+            String number = "";
+            if(Character.isDigit(secondString[0])) {
+                number = number + secondString[0];
+                if(secondString.length > 1 && Character.isDigit(secondString[1])) {
+                    number = number + secondString[1];
+                }
+            }
+            if(!number.equals("")) {
+                majorName = majorName + "-" + number;
+            }
+        }
+        if(majorName.contains("Computer Science")) {
+            majorName = "Computer Science";
+        }
+        if(majorName.contains("Cell Biology and Neuroscience")) {
+            majorName = "Cell Biology and Neuroscience";
+        }
+        majorName = majorName.replaceAll("[^a-zA-Z0-9& -]", "");
         //System.out.println(majorName);
 
         // Initialize the major, and find it in our Hashmap
