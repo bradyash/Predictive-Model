@@ -1,11 +1,13 @@
+import java.awt.*;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
 public class ReadPlans {
-    public static ArrayList<Course> readPlan(HashMap<String, Major> majors, File f) throws FileNotFoundException {
+    public static ArrayList<Course> readPlan(HashMap<String, Major> majors, File f) throws IOException {
         // Initialize ArrayList, set up file and scanner.
         ArrayList<Course> courses = new ArrayList<>();
         File file = null;
@@ -16,16 +18,17 @@ public class ReadPlans {
             System.out.println("ERROR: File does not exist");
             System.exit(1);
         }
+        //Desktop.getDesktop().open(file);
         Scanner read = new Scanner(file);
 
-        // Get the name of the Major
+        // Get the name of the Major TODO: Why won't it open some files??
         if(!read.hasNextLine()) {
             System.out.println("ERROR: Empty .csv file. Path: " + file.getPath());
+            //System.out.println("Is File?: " + file.isFile() + " Write: " + file.canWrite() + " Execute: " + file.canExecute());
             return null;
         }
 
-        // TODO: Fix logic to work with 'K-8'... Maybe create a dictionary to check against, then
-        // TODO: use whatever it is in the dict??
+        // TODO: Create a dictionary for majors??
         String[] line = read.nextLine().split(",");
         String[]temp = line[1].split("-"); // this line is an issue
         String majorName = temp[0].strip();
@@ -51,6 +54,9 @@ public class ReadPlans {
         if(majorName.contains("Cell Biology and Neuroscience")) {
             majorName = "Cell Biology and Neuroscience";
         }
+        if(majorName.contains("Integrated Lens")) {
+            majorName = "Film and Photography";
+        }
         majorName = majorName.replaceAll("[^a-zA-Z0-9& -]", "");
         //System.out.println(majorName);
 
@@ -71,7 +77,7 @@ public class ReadPlans {
         }
 
         // iterates through the remaining file
-        while(read.hasNext()) {
+        while(read.hasNextLine()) {
             line = read.nextLine().split(",");
             // if it is a valid course
             if(line.length > 10) {
@@ -84,6 +90,7 @@ public class ReadPlans {
             }
         }
         major.setCourses(courses);
+        read.close();
 
         return courses;
     }

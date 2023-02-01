@@ -1,10 +1,11 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Client {
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws IOException {
         //long time1 = System.currentTimeMillis();
         HashMap<String, Major> majors = readEnrolled.readCsv();
         //System.out.println("Run Time of readCsv: " + (System.currentTimeMillis() - time1));
