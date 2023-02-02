@@ -1,3 +1,5 @@
+package helpers;
+
 import classes.Major;
 
 import java.io.File;

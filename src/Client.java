@@ -1,5 +1,6 @@
 import classes.Course;
 import classes.Major;
+import helpers.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -25,6 +26,6 @@ public class Client {
         HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);
 
         SendToCSV.writeToCsv("", totals);
-        //gui.gui();
+        //gui.gui.gui.gui();
     }
 }

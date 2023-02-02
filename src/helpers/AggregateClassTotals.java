@@ -1,3 +1,5 @@
+package helpers;
+
 import classes.Course;
 import classes.Major;
 
