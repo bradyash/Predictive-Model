@@ -25,13 +25,13 @@ public class Client {
         int total = 0;
         for (String s : majors.keySet()) {
             total += majors.get(s).getEnrolled();
-            System.out.println(majors.get(s).getName() + " " + majors.get(s).getEnrolled());
-            for (Course cours : majors.get(s).getCourses()) {
-                System.out.println("   " + cours.getName() + " " + cours.getNumber());
-            }
+            //System.out.println(majors.get(s).getName() + " " + majors.get(s).getEnrolled());
+//            for (Course cours : majors.get(s).getCourses()) {
+//                //System.out.println("   " + cours.getName() + " " + cours.getNumber());
+//            }
         }
         System.out.println("Grand Total: " + total);
-        System.out.println(majors.size());
+        //System.out.println(majors.size());
 
         HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);
 //        for (String s : totals.keySet()) {

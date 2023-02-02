@@ -2,7 +2,7 @@ public class Course {
     private String prefix;
     private String number;
 
-    private int enrolled;
+    private Integer enrolled;
 
     public Course() {
         prefix = "";

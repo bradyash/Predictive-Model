@@ -16,6 +16,7 @@ public class SendToCSV {
             throw new RuntimeException(e);
         }
         // TODO: Add headers
+        csvWriter.write("COURSE NAME & NUMBER,ESTIMATED LOAD\n");
         for (String s : courses.keySet()) {
             StringBuilder line = new StringBuilder();
             line.append(s);
