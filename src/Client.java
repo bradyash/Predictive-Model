@@ -7,7 +7,7 @@ import java.util.HashMap;
 public class Client {
     public static void main(String[] args) throws IOException {
         //long time1 = System.currentTimeMillis();
-        HashMap<String, Major> majors = readEnrolled.readCsv();
+        HashMap<String, Major> majors = ReadEnrolled.readCsv();
         //System.out.println("Run Time of readCsv: " + (System.currentTimeMillis() - time1));
 //        long time2 = System.currentTimeMillis();
 //        ArrayList<Course> courses = ReadPlans.readPlan(majors);
@@ -15,7 +15,7 @@ public class Client {
 
         //System.out.println("   ---   ---   ---   ---   ---   ---   ---   ---");
         //long time3 = System.currentTimeMillis();
-        ArrayList<File> allFiles = collectFiles.collectFiles("C:\\Users\\brady\\Downloads\\OneDrive_2023-01-25\\Degree plan files");
+        ArrayList<File> allFiles = collectFiles.collectFiles("C:\\Users\\brady\\Downloads\\Degree plan files-20230202T170512Z-001\\Degree plan files");
         //System.out.println("Run time of collectFiles: " + (System.currentTimeMillis() - time3));
 
         for (File file : allFiles) {
@@ -31,7 +31,13 @@ public class Client {
             }
         }
         System.out.println("Grand Total: " + total);
+        System.out.println(majors.size());
 
-
+        HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);
+//        for (String s : totals.keySet()) {
+//            Integer enrollCount = totals.get(s);
+//            System.out.println(s + " " + enrollCount);
+//        }
+        SendToCSV.writeToCsv("", totals);
     }
 }

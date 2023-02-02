@@ -3,11 +3,11 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class readEnrolled {
+public class ReadEnrolled {
     public static HashMap<String, Major> readCsv() throws FileNotFoundException {
         // Initialize and add Filepath. TODO: MAKE FILEPATH DYNAMIC
         HashMap<String, Major> majors = new HashMap<>();
-        File file = new File("C:\\Users\\brady\\IdeaProjects\\Provost Office\\src\\Fall 2022 New Student Enrollment by Major.csv");
+        File file = new File("src/Fall 2022 New Student Enrollment by Major.csv");
         Scanner read = new Scanner(file);
         read.nextLine();
 

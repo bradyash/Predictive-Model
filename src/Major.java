@@ -42,4 +42,10 @@ public class Major {
     public void setCourses(ArrayList<Course> c) {
         courses = c;
     }
+
+    public void setCourseTotals() {
+        for (Course c : courses) {
+            c.setEnrolled(enrolled);
+        }
+    }
 }
