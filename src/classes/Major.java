@@ -1,3 +1,7 @@
+package classes;
+
+import classes.Course;
+
 import java.util.ArrayList;
 
 public class Major {

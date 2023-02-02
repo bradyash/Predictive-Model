@@ -1,9 +1,11 @@
-import java.util.ArrayList;
+import classes.Course;
+import classes.Major;
+
 import java.util.HashMap;
 
 public class AggregateClassTotals {
 
-    public static HashMap<String,Integer> AggregateClassTotals(HashMap<String,Major> majors) {
+    public static HashMap<String,Integer> AggregateClassTotals(HashMap<String, Major> majors) {
         HashMap<String,Integer> allCourses = new HashMap<>();
         //TODO: Errors with aggregation
 

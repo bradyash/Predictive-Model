@@ -1,6 +1,7 @@
-import java.awt.*;
+import classes.Course;
+import classes.Major;
+
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -21,10 +22,10 @@ public class ReadPlans {
         //Desktop.getDesktop().open(file);
         Scanner read = new Scanner(file);
 
-        // Get the name of the Major TODO: Why won't it open some files??
+        // Get the name of the classes.Major TODO: Why won't it open some files??
         if(!read.hasNextLine()) {
             System.out.println("ERROR: Empty .csv file. Path: " + file.getPath());
-            //System.out.println("Is File?: " + file.isFile() + " Write: " + file.canWrite() + " Execute: " + file.canExecute());
+            System.out.println();
             return null;
         }
 
@@ -67,7 +68,9 @@ public class ReadPlans {
         }
         // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
-            System.out.println("ERROR: Major \"" + majorName + "\" not in system");
+            System.out.println("ERROR: classes.Major \"" + majorName + "\" not in system");
+            System.out.println("------------PATH : " + file.getPath());
+            System.out.println();
             return null;
         }
 

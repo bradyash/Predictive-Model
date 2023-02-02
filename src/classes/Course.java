@@ -1,3 +1,5 @@
+package classes;
+
 public class Course {
     private String prefix;
     private String number;

@@ -8,7 +8,7 @@ public class SendToCSV {
         File file = null;
         FileWriter csvWriter = null;
         try {
-            file = new File("src/out.csv");
+            file = new File("src/out/out.csv");
 
             csvWriter = new FileWriter(file);
 
