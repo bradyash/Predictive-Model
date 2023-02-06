@@ -1,28 +1,21 @@
 package gui;
 
+import classes.Course;
+import classes.Major;
+import helpers.*;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
 
 public class gui {
-    private static void openDirectory(ActionEvent e, Component c) {
-        final JFileChooser fc = new JFileChooser();
-        //Handle open button action.
-        if (e.getSource() == c) {
-            int returnVal = fc.showOpenDialog(c);
-
-            if (returnVal == JFileChooser.APPROVE_OPTION) {
-                File file = fc.getSelectedFile();
-                //This is where a real application would open the file.
-                //log.append("Opening: " + file.getName() + "." + newline);
-            } else {
-                //log.append("Open command cancelled by user." + newline);
-            }
-        }
-    }
-
-    public static void user_gui() {
+    private JTextArea ta;
+    public gui() {
 
         //Creating the Frame
         JFrame frame = new JFrame("Chat Frame");
@@ -39,7 +32,13 @@ public class gui {
         JMenuItem m22 = new JMenuItem("Save as");
         m1.add(m11);
         m1.add(m22);
-        m11.addActionListener(e -> openDirectory(e, m11));
+        m11.addActionListener(e -> {
+            try {
+                openDirectory(e, m11);
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        });
 
         //Creating the panel at bottom and adding components
         JPanel panel = new JPanel(); // the panel is not visible in output
@@ -53,12 +52,57 @@ public class gui {
         panel.add(reset);
 
         // Text Area at the Center
-        JTextArea ta = new JTextArea();
+        ta = new JTextArea();
+        ta.append("Hello! Welcome to the Predictive Model program written by Brady Ash \n");
+        ta.append("Please hit \"file, open\" and select the directory with the degree plans!");
 
         //Adding Components to the frame.
         frame.getContentPane().add(BorderLayout.SOUTH, panel);
         frame.getContentPane().add(BorderLayout.NORTH, mb);
         frame.getContentPane().add(BorderLayout.CENTER, ta);
         frame.setVisible(true);
+    }
+    public void appendText(String s) {
+     ta.append(s);
+     ta.append("\n");
+    }
+    public void openDirectory(ActionEvent e, Component c) throws IOException {
+        final JFileChooser fc = new JFileChooser();
+        fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        //Handle open button action.
+        if (e.getSource() == c) {
+            int returnVal = fc.showOpenDialog(c);
+
+            if (returnVal == JFileChooser.APPROVE_OPTION) {
+
+                File f = fc.getSelectedFile();
+                appendText("File accepted!");
+
+                appendText("Collecting degree plans...");
+                ArrayList<File> allFiles = CollectFiles.collectFiles(f.getAbsolutePath());
+
+                appendText("Mapping Majors...");
+                HashMap<String, Major> majors = ReadEnrolled.readCsv();
+
+                appendText("Reading degree plans...");
+                for (File file : allFiles) {
+                    ArrayList<Course> courses1 = ReadPlans.readPlan(majors, file);
+                }
+
+                appendText("Aggregating class totals..");
+                HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);
+
+                appendText("Outputting to .CSV...");
+                SendToCSV.writeToCsv("", totals);
+
+                appendText("Program Finished!");
+
+                //appendText("\nWould you like to view the .csv file??");
+                //This is where a real application would open the file.
+                //log.append("Opening: " + file.getName() + "." + newline);
+            } else {
+
+            }
+        }
     }
 }
