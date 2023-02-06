@@ -97,6 +97,14 @@ public class gui {
 
                 appendText("Program Finished!");
 
+                File file = new File(System.getProperty("user.dir"));
+                File output = new File(file.getAbsolutePath() + File.separator + "src" + File.separator + "output" + File.separator + "out.csv");
+                if (output.isFile()) {
+                    appendText("\nout.csv can be accessed using the following directory \n");
+                    appendText(output.getPath());
+                }
+//                appendText("\nout.csv can be accessed using the following directory \n");
+//                appendText(output.getPath());
                 //appendText("\nWould you like to view the .csv file??");
                 //This is where a real application would open the file.
                 //log.append("Opening: " + file.getName() + "." + newline);
