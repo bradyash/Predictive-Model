@@ -21,17 +21,16 @@ public class ReadPlans {
             System.out.println("ERROR: File does not exist");
             System.exit(1);
         }
-        //Desktop.getDesktop().open(file);
         Scanner read = new Scanner(file);
 
-        // Get the name of the classes.Major TODO: Why won't it open some files??
-        if(!read.hasNextLine()) {
+        // Get the name of the Major TODO: Why won't it open some files??
+        if(!read.hasNext()) {
             System.out.println("ERROR: Empty .csv file. Path: " + file.getPath());
             System.out.println();
             return null;
         }
 
-        // TODO: Create a dictionary for majors??
+        // TODO: Create a dictionary for majors?? -- Binary Search Tree
         String[] line = read.nextLine().split(",");
         String[]temp = line[1].split("-"); // this line is an issue
         String majorName = temp[0].strip();
@@ -61,7 +60,7 @@ public class ReadPlans {
             majorName = "Film and Photography";
         }
         majorName = majorName.replaceAll("[^a-zA-Z0-9& -]", "");
-        //System.out.println(majorName);
+        System.out.println(majorName);
 
         // Initialize the major, and find it in our Hashmap
         Major major = null;
@@ -71,7 +70,7 @@ public class ReadPlans {
         // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
             System.out.println("ERROR: classes.Major \"" + majorName + "\" not in system");
-            System.out.println("------------PATH : " + file.getPath());
+            //System.out.println("------------PATH : " + file.getPath());
             System.out.println();
             return null;
         }

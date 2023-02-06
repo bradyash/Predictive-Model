@@ -1,10 +1,9 @@
 package helpers;
 
 import java.io.File;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
-public class collectFiles {
+public class CollectFiles {
     public static ArrayList<File> collectFiles(String directory) {
         // Initialize files, try to grab the root directory
         ArrayList<File> allFiles = new ArrayList<>();

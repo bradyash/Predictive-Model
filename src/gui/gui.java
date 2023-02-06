@@ -2,9 +2,27 @@ package gui;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.io.File;
 
-class gui {
-    public static void gui() {
+public class gui {
+    private static void openDirectory(ActionEvent e, Component c) {
+        final JFileChooser fc = new JFileChooser();
+        //Handle open button action.
+        if (e.getSource() == c) {
+            int returnVal = fc.showOpenDialog(c);
+
+            if (returnVal == JFileChooser.APPROVE_OPTION) {
+                File file = fc.getSelectedFile();
+                //This is where a real application would open the file.
+                //log.append("Opening: " + file.getName() + "." + newline);
+            } else {
+                //log.append("Open command cancelled by user." + newline);
+            }
+        }
+    }
+
+    public static void user_gui() {
 
         //Creating the Frame
         JFrame frame = new JFrame("Chat Frame");
@@ -21,6 +39,7 @@ class gui {
         JMenuItem m22 = new JMenuItem("Save as");
         m1.add(m11);
         m1.add(m22);
+        m11.addActionListener(e -> openDirectory(e, m11));
 
         //Creating the panel at bottom and adding components
         JPanel panel = new JPanel(); // the panel is not visible in output

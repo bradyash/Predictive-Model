@@ -1,6 +1,7 @@
 import classes.Course;
 import classes.Major;
 import helpers.*;
+import gui.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,7 +12,7 @@ public class Client {
     public static void main(String[] args) throws IOException {
         HashMap<String, Major> majors = ReadEnrolled.readCsv();
 
-        ArrayList<File> allFiles = collectFiles.collectFiles("C:\\Users\\brady\\Downloads\\Degree plan files-20230202T170512Z-001\\Degree plan files");
+        ArrayList<File> allFiles = CollectFiles.collectFiles("C:\\Users\\brady\\Downloads\\OneDrive_2023-01-25");
 
         for (File file : allFiles) {
             ArrayList<Course> courses1 = ReadPlans.readPlan(majors, file);
@@ -26,6 +27,7 @@ public class Client {
         HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);
 
         SendToCSV.writeToCsv("", totals);
-        //gui.gui.gui.gui();
+
+        gui.user_gui();
     }
 }
