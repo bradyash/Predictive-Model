@@ -1,0 +1,1 @@
+java -jar /out/artifacts/Predictive_Model_jar/Predictive_Model_jar.jar
