@@ -18,6 +18,7 @@ public class gui {
     private JTextArea ta;
     private File output;
     private ArrayList<String> errors;
+    private  HashMap<String, Major> majors;
     public gui() {
 
         //Creating the Frame
@@ -37,7 +38,8 @@ public class gui {
         m1.add(m22);
         m11.addActionListener(e -> {
             try {
-                openDirectory(e, m11);
+                openDirectory(e, m11, "file");
+                openDirectory(e, m11, "directory");
             } catch (IOException ex) {
                 ex.printStackTrace();
             }
@@ -66,7 +68,7 @@ public class gui {
         // Text Area at the Center
         ta = new JTextArea(16, 8);
         ta.append("Hello! Welcome to the Predictive Model program written by Brady Ash \n");
-        ta.append("Please hit \"file, open\" and select the directory with the degree plans!");
+        ta.append("Please hit \"file, open\" and select the file with the \nfreshmen enrolled count by major!\n");
 
         //add scroll functionality to text area
         JScrollPane scroll = new JScrollPane(ta);
@@ -95,6 +97,17 @@ public class gui {
         return output;
     }
 
+    public void setMajors( HashMap<String, Major> m) {
+        majors = m;
+    }
+    public  HashMap<String, Major> getMajors() {
+        return majors;
+    }
+
+    public void openEnrolled(ActionEvent e, Component c) {
+
+    }
+
     //opens the output file
     public void openFile(ActionEvent e, Component c, JTextField j) throws BadLocationException, IOException {
         if (e.getSource() == c) {
@@ -105,16 +118,30 @@ public class gui {
                 Desktop.getDesktop().open(file);
                 ta.append("\nThank you for running the program!");
             }
-                ta.append("Program Finished, hit the 'X' button to close!");
+                ta.append("\nProgram Finished, hit the 'X' button to close!");
         }
     }
 
-    public void openDirectory(ActionEvent e, Component c) throws IOException {
+    public void openDirectory(ActionEvent e, Component c, String s) throws IOException {
         final JFileChooser fc = new JFileChooser();
-        fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        if(s.equals("file")) {
+            fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
+        }
+        else {
+            fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        }
         //Handle open button action.
         if (e.getSource() == c) {
             int returnVal = fc.showOpenDialog(c);
+            if (s.equals("file")) {
+                if(returnVal == JFileChooser.APPROVE_OPTION) {
+                    File f = fc.getSelectedFile();
+                    setMajors(ReadEnrolled.readCsv(f));
+                    appendText("Majors filed!");
+                    appendText("Select the directory containing the degree plans!");
+                    return;
+                }
+            }
 
             //if the file is a valid directory
             if (returnVal == JFileChooser.APPROVE_OPTION) {
@@ -125,21 +152,18 @@ public class gui {
                 appendText("Collecting degree plans...");
                 ArrayList<File> allFiles = CollectFiles.collectFiles(f.getAbsolutePath());
 
-                appendText("Mapping Majors...");
-                HashMap<String, Major> majors = ReadEnrolled.readCsv();
-
                 appendText("Reading degree plans...");
 
                 //outputs errors to the text area
                 for (File file : allFiles) {
-                    String error = ReadPlans.readPlan(majors, file);
+                    String error = ReadPlans.readPlan(getMajors(), file);
                     if (!error.equals("") && !error.equals(null)) {
                         appendText(error);
                     }
                 }
 
                 appendText("Aggregating class totals..");
-                HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);
+                HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(getMajors());
 
                 appendText("Outputting to .CSV...");
                 SendToCSV.writeToCsv(totals);
