@@ -3,8 +3,12 @@ package helpers;
 import classes.Course;
 import classes.Major;
 
+import java.awt.*;
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
@@ -21,17 +25,19 @@ public class ReadPlans {
             System.out.println("ERROR: File does not exist");
             System.exit(1);
         }
-        Scanner read = new Scanner(file);
+        BufferedReader reader = new BufferedReader(new FileReader(file, StandardCharsets.UTF_8));
+        String read = reader.readLine();
+
 
         // Get the name of the Major TODO: Why won't it open some files??
-        if(!read.hasNext()) {
+        if(read.equals(null)) {
             System.out.println("ERROR: Empty .csv file. Path: " + file.getPath());
-            System.out.println();
-            return null;
+                System.out.println("Fix didn't work :(");
+                return null;
         }
 
         // TODO: Create a dictionary for majors?? -- Binary Search Tree
-        String[] line = read.nextLine().split(",");
+        String[] line = read.split(",");
         String[]temp = line[1].split("-"); // this line is an issue
         String majorName = temp[0].strip();
         if ('"' == majorName.charAt(0)) {
@@ -60,7 +66,7 @@ public class ReadPlans {
             majorName = "Film and Photography";
         }
         majorName = majorName.replaceAll("[^a-zA-Z0-9& -]", "");
-        System.out.println(majorName);
+        //System.out.println(majorName);
 
         // Initialize the major, and find it in our Hashmap
         Major major = null;
@@ -69,20 +75,22 @@ public class ReadPlans {
         }
         // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
-            System.out.println("ERROR: classes.Major \"" + majorName + "\" not in system");
+            System.out.println("ERROR: Major \"" + majorName + "\" not in system");
             //System.out.println("------------PATH : " + file.getPath());
             System.out.println();
             return null;
         }
 
         // removes trash lines
-        while(!"Course ID".equals(line[0]) && read.hasNextLine()) {
-            line = read.nextLine().split(",");
+        while(!"Course ID".equals(line[0]) && read != null) {
+            read = reader.readLine();
+            line = read.split(",");
         }
 
         // iterates through the remaining file
-        while(read.hasNextLine()) {
-            line = read.nextLine().split(",");
+        read = reader.readLine();
+        while(read != null) {
+            line = read.split(",");
             // if it is a valid course
             if(line.length > 10) {
 
@@ -92,9 +100,10 @@ public class ReadPlans {
                     courses.add(course);
                 }
             }
+            read = reader.readLine();
         }
         major.setCourses(courses);
-        read.close();
+        reader.close();
 
         return courses;
     }
