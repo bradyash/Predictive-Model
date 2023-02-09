@@ -14,9 +14,10 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class ReadPlans {
-    public static ArrayList<Course> readPlan(HashMap<String, Major> majors, File f) throws IOException {
+    public static String readPlan(HashMap<String, Major> majors, File f) throws IOException {
         // Initialize ArrayList, set up file and scanner.
         ArrayList<Course> courses = new ArrayList<>();
+        String error = "";
         File file = null;
         try {
             file = f;
@@ -29,14 +30,13 @@ public class ReadPlans {
         String read = reader.readLine();
 
 
-        // Get the name of the Major TODO: Why won't it open some files??
+        // Get the name of the Major
         if(read.equals(null)) {
-            System.out.println("ERROR: Empty .csv file. Path: " + file.getPath());
-                System.out.println("Fix didn't work :(");
-                return null;
+            error = "ERROR: Empty .csv file. Path: " + file.getPath();
+                return error;
         }
 
-        // TODO: Create a dictionary for majors?? -- Binary Search Tree
+        //TODO: Dictionary for major names??
         String[] line = read.split(",");
         String[]temp = line[1].split("-"); // this line is an issue
         String majorName = temp[0].strip();
@@ -75,10 +75,8 @@ public class ReadPlans {
         }
         // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
-            System.out.println("ERROR: Major \"" + majorName + "\" not in system");
-            //System.out.println("------------PATH : " + file.getPath());
-            System.out.println();
-            return null;
+            error = ("ERROR: Major \"" + majorName + "\" not in system");
+            return error;
         }
 
         // removes trash lines
@@ -105,6 +103,6 @@ public class ReadPlans {
         major.setCourses(courses);
         reader.close();
 
-        return courses;
+        return error;
     }
 }

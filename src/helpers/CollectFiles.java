@@ -25,7 +25,6 @@ public class CollectFiles {
         File file = f;
 
         if (!file.isDirectory()) {
-            //System.out.println(f.getName());
             allFiles.add(file);
             return;
         }
