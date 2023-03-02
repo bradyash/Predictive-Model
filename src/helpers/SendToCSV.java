@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.HashMap;
 
 public class SendToCSV {
-    public static void writeToCsv(HashMap<String,Integer> courses) throws IOException {
+    public static File writeToCsv(HashMap<String,Integer> courses) throws IOException {
         File file = null;
         FileWriter csvWriter = null;
         try {
@@ -29,5 +29,6 @@ public class SendToCSV {
             csvWriter.write(line.toString());
         }
         csvWriter.close();
+        return file;
     }
 }
