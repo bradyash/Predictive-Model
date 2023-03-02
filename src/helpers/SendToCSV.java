@@ -10,7 +10,7 @@ public class SendToCSV {
         File file = null;
         FileWriter csvWriter = null;
         try {
-            file = new File("src/output/out.csv");
+            file = new File("output.csv");
 
             csvWriter = new FileWriter(file);
 
