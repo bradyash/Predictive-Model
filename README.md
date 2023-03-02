@@ -7,3 +7,6 @@ Data aggregation from .csv to predict first term course loads.
 
 ### To Run
 * Double-click the file (or right click and hit 'open') to run.
+
+#### Notes
+* The output file will download into the same directory the .jar file is saved in
