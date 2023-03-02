@@ -10,7 +10,8 @@ public class SendToCSV {
         File file = null;
         FileWriter csvWriter = null;
         try {
-            file = new File("./output.csv");
+            String localDir = System.getProperty("user.dir");
+            file = new File(localDir + "\\out.csv");
 
             csvWriter = new FileWriter(file);
 
