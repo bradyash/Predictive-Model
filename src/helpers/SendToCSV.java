@@ -6,11 +6,12 @@ import java.io.IOException;
 import java.util.HashMap;
 
 public class SendToCSV {
-    public static void writeToCsv(HashMap<String,Integer> courses) throws IOException {
+    public static File writeToCsv(HashMap<String,Integer> courses) throws IOException {
         File file = null;
         FileWriter csvWriter = null;
         try {
-            file = new File("src/output/out.csv");
+            String localDir = System.getProperty("user.dir");
+            file = new File(localDir + "\\out.csv");
 
             csvWriter = new FileWriter(file);
 
@@ -28,5 +29,6 @@ public class SendToCSV {
             csvWriter.write(line.toString());
         }
         csvWriter.close();
+        return file;
     }
 }

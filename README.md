@@ -6,4 +6,7 @@ Data aggregation from .csv to predict first term course loads.
 * Go to the following directory: out/artifacts/Predictive_Model and download the .jar file. 
 
 ### To Run
-* Double click the file (or right click and hit open) to run.
+* Double-click the file (or right click and hit 'open') to run.
+
+#### Notes
+* The output file will download into the same directory the .jar file is saved in

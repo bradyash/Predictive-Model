@@ -166,13 +166,13 @@ public class gui {
                 HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(getMajors());
 
                 appendText("Outputting to .CSV...");
-                SendToCSV.writeToCsv(totals);
+                setFile(SendToCSV.writeToCsv(totals));
 
                 appendText("Program Finished!");
 
                 //prints out output file, then asks if they would like to open it.
                 File file = new File(System.getProperty("user.dir"));
-                File output = new File(file.getAbsolutePath() + File.separator + "src" + File.separator + "output" + File.separator + "out.csv");
+                File output = new File(file.getAbsolutePath() + "\\out.csv");
                 if (output.isFile()) {
                     appendText("\nout.csv can be accessed using the following filepath:\n");
                     appendText(output.getPath());
