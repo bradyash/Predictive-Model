@@ -106,13 +106,52 @@ public class gui {
     public void openFile(ActionEvent e, Component c, JTextField j) throws BadLocationException, IOException {
         if (e.getSource() == c) {
             String input = j.getText();
-            ta.append("--> " + input);
+            appendText("--> " + input);
             if(input.toLowerCase().equals("yes")) {
                 File file = getFile();
                 Desktop.getDesktop().open(file);
-                ta.append("\nThank you for running the program!");
+                appendText("\nThank you for running the program!");
+            } else if (input.equals("1")) {
+                appendText("Aggregating class totals..");
+                HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(getMajors());
+
+                appendText("Outputting to .CSV...");
+                setFile(SendToCSV.writeToCsv(totals));
+
+                appendText("Program Finished!");
+
+                //prints out output file, then asks if they would like to open it.
+                File file = new File(System.getProperty("user.dir"));
+                File output = new File(file.getAbsolutePath() + "\\out.csv");
+                if (output.isFile()) {
+                    appendText("\nout.csv can be accessed using the following filepath:\n");
+                    appendText(output.getPath());
+                    setFile(output);
+                }
+                appendText("\nWould you like to view the .csv file?\nEnter yes/no in bottom text box, and then course/major for a different view option!");
+            } else if (input.equals("2")) {
+                HashMap<String, Major> m = getMajors();
+                for (String major : m.keySet()) {
+                    m.get(major).setCourseTotals();
+                }
+                setMajors(m);
+                appendText("Iterating through each major");
+                setFile(SendToCSV.outputByMajor(getMajors()));
+                File file = new File(System.getProperty("user.dir"));
+                File output = new File(file.getAbsolutePath() + "\\out.csv");
+                if (output.isFile()) {
+                    appendText("\nout.csv can be accessed using the following filepath:\n");
+                    appendText(output.getPath());
+                    setFile(output);
+                }
+                else {
+                    appendText("Something went wrong :(");
+                }
+                appendText("Outputted to file out.csv. To view, type yes and hit enter!");
             }
-                ta.append("\nProgram Finished, hit the 'X' button to close!");
+            else {
+                appendText("Incorrect input, try again");
+            }
         }
     }
 
@@ -155,27 +194,7 @@ public class gui {
                         appendText(error);
                     }
                 }
-
-                appendText("Aggregating class totals..");
-                HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(getMajors());
-
-                appendText("Outputting to .CSV...");
-                setFile(SendToCSV.writeToCsv(totals));
-
-                appendText("Program Finished!");
-
-                //prints out output file, then asks if they would like to open it.
-                File file = new File(System.getProperty("user.dir"));
-                File output = new File(file.getAbsolutePath() + "\\out.csv");
-                if (output.isFile()) {
-                    appendText("\nout.csv can be accessed using the following filepath:\n");
-                    appendText(output.getPath());
-                    setFile(output);
-                }
-                appendText("\nWould you like to view the .csv file?\nEnter yes/no in bottom text box");
-                //This is where a real application would open the file.
-            } else {
-
+                appendText("Enter 1 to view by total course load, or 2 to view by Major, and then hit send");
             }
         }
     }
