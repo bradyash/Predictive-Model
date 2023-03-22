@@ -18,7 +18,9 @@ public class gui {
     private JTextArea ta;
     private File output;
     private ArrayList<String> errors;
-    private  HashMap<String, Major> majors;
+    private HashMap<String, Major> majors;
+
+    private Dictionary dictionary = new Dictionary();
     public gui() {
 
         //Creating the Frame
@@ -34,7 +36,7 @@ public class gui {
         m1.add(m11);
         m11.addActionListener(e -> {
             try {
-                openDirectory(e, m11, "file");
+                openDirectory(e, m11, "dictionary");
                 openDirectory(e, m11, "directory");
             } catch (IOException ex) {
                 ex.printStackTrace();
@@ -157,7 +159,7 @@ public class gui {
 
     public void openDirectory(ActionEvent e, Component c, String s) throws IOException {
         final JFileChooser fc = new JFileChooser();
-        if(s.equals("file")) {
+        if(s.equals("dictionary")) {
             fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
         }
         else {
@@ -166,12 +168,15 @@ public class gui {
         //Handle open button action.
         if (e.getSource() == c) {
             int returnVal = fc.showOpenDialog(c);
-            if (s.equals("file")) {
+             if (s.equals("dictionary")) {
                 if(returnVal == JFileChooser.APPROVE_OPTION) {
                     File f = fc.getSelectedFile();
-                    setMajors(ReadEnrolled.readCsv(f));
-                    appendText("Majors filed!");
+                    dictionary.importDictionary(f);
+                    appendText("Dictionary Created!");
+                    setMajors(ReadEnrolled.readCsv(f, dictionary));
+                    appendText("Majors Filed!");
                     appendText("Select the directory containing the degree plans!");
+                    appendText("");
                     return;
                 }
             }
@@ -189,7 +194,7 @@ public class gui {
 
                 //outputs errors to the text area
                 for (File file : allFiles) {
-                    String error = ReadPlans.readPlan(getMajors(), file);
+                    String error = ReadPlans.readPlan(getMajors(), file, dictionary);
                     if (!error.equals("") && !error.equals(null)) {
                         appendText(error);
                     }

@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class ReadPlans {
-    public static String readPlan(HashMap<String, Major> majors, File f) throws IOException {
+    public static String readPlan(HashMap<String, Major> majors, File f, Dictionary dictionary) throws IOException {
         // Initialize ArrayList, set up file and scanner.
         ArrayList<Course> courses = new ArrayList<>();
         String error = "";
@@ -37,47 +37,68 @@ public class ReadPlans {
         }
 
         //TODO: Dictionary for major names??
-        String[] line = read.split(",");
-        String[]temp = line[1].split("-"); // this line is an issue
-        String majorName = temp[0].strip();
-        if ('"' == majorName.charAt(0)) {
-            majorName = majorName.substring(1);
-        }
-        if("K".equals(majorName.substring(majorName.length()-1))) {
-            char[] secondString = temp[1].strip().toCharArray();
-            String number = "";
-            if(Character.isDigit(secondString[0])) {
-                number = number + secondString[0];
-                if(secondString.length > 1 && Character.isDigit(secondString[1])) {
-                    number = number + secondString[1];
-                }
-            }
-            if(!number.equals("")) {
-                majorName = majorName + "-" + number;
-            }
-        }
-        if(majorName.contains("Computer Science")) {
-            majorName = "Computer Science";
-        }
-        if(majorName.contains("Cell Biology and Neuroscience")) {
-            majorName = "Cell Biology and Neuroscience";
-        }
-        if(majorName.contains("Integrated Lens")) {
-            majorName = "Film and Photography";
-        }
-        majorName = majorName.replaceAll("[^a-zA-Z0-9& -]", "");
-        //System.out.println(majorName);
 
-        // Initialize the major, and find it in our Hashmap
+        String[] splitPathName = file.getName().split("[-. ]"); // degree-plan - ESGL
+        String name = "";
+        for (String s : splitPathName) {
+            System.out.print("[" + s+ "]" + " ");
+        }
+        System.out.println("");
+        if (dictionary.checkDictionary(splitPathName[4])) {
+            name = dictionary.getDictItem(splitPathName[4]).strip();
+        }
         Major major = null;
-        if(majors.containsKey(majorName)) {
-            major = majors.get(majorName);
+        if(majors.containsKey(name)) {
+            major = majors.get(name);
         }
         // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
-            error = ("ERROR: Major \"" + majorName + "\" not in system");
+            error = ("ERROR: Major \"" + name + "\" not in system");
             return error;
         }
+
+
+       String[] line = read.split(",");
+//        String[]temp = line[1].split("-"); // this line is an issue
+//        String majorName = temp[0].strip();
+//        if ('"' == majorName.charAt(0)) {
+//            majorName = majorName.substring(1);
+//        }
+//        if("K".equals(majorName.substring(majorName.length()-1))) {
+//            char[] secondString = temp[1].strip().toCharArray();
+//            String number = "";
+//            if(Character.isDigit(secondString[0])) {
+//                number = number + secondString[0];
+//                if(secondString.length > 1 && Character.isDigit(secondString[1])) {
+//                    number = number + secondString[1];
+//                }
+//            }
+//            if(!number.equals("")) {
+//                majorName = majorName + "-" + number;
+//            }
+//        }
+//        if(majorName.contains("Computer Science")) {
+//            majorName = "Computer Science";
+//        }
+//        if(majorName.contains("Cell Biology and Neuroscience")) {
+//            majorName = "Cell Biology and Neuroscience";
+//        }
+//        if(majorName.contains("Integrated Lens")) {
+//            majorName = "Film and Photography";
+//        }
+//        majorName = majorName.replaceAll("[^a-zA-Z0-9& -]", "");
+//        //System.out.println(majorName);
+//
+//        // Initialize the major, and find it in our Hashmap
+//        major = null;
+//        if(majors.containsKey(majorName)) {
+//            major = majors.get(majorName);
+//        }
+//        // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
+//        else{
+//            error = ("ERROR: Major \"" + majorName + "\" not in system");
+//            return error;
+//        }
 
         // removes trash lines
         while(!"Course ID".equals(line[0]) && read != null) {
