@@ -1,0 +1,53 @@
+Curriculum,Industrial and Management Systems Engineering,,,,,,,,,
+Degree Plan,IMSE Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.3501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Introduction to Industrial & Management Systems Engineering,EIND,101,,,,1,,,1
+2,College Chemistry I,CHMY,141,,,,3,,,1
+3,College Chemistry I Lab,CHMY,142,,,2,1,,,1
+4,Calculus I,M,171Q,,,,4,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,University Core Elective,ELEC,,,,,3,,,1
+7,Introduction to Public Speaking,COMX,111US,,,,3,,,2
+8,Introduction to Systems Engineering,EIND,142,,,,2,,,2
+9,Calculus II,M,172Q,4,,,4,,,2
+10,Physics I with Calculus,PHSX,220,,4,,4,,,2
+11,University Core Elective,ELEC,,,,,3,,,2
+12,Engineering Mechanics-Statics,EGEN,201,10,14,,3,,,3
+13,Materials Structures and Prop,EMAT,251,2,4,,3,,,3
+14,Multivariable Calculus,M,273Q,9,,,4,,,3
+15,Physics II with Calculus,PHSX,222,4;10,9,,4,,,3
+16,University Core Elective,ELEC,,,,,3,,,3
+17,Joy and Beauty of Data,CSCI,127,,,,4,,,4
+18,Mechanics of Materials,EGEN,205,12;14,,,3,,,4
+19,Work Design and Analysis,EIND,313,5;8,,,3,,,4
+20,Introduction to Linear Algebra,M,221,9,,,3,,,4
+21,Engineering Core Elective3,ELEC,,,,,3,,,4
+22,Engineering Management & Ethics,EIND,300,5;7,,,3,,,5
+23,Engineering Probability and Statistics I,EIND,354,9,,,3,,,5
+24,Principles of Operations Research I,EIND,364,20,,,3,,,5
+25,Ergonomics & Human Factors Engineering,EIND,413,18;19,,,3,,,5
+26,CAE I-Engineering Graphics Communications,EMEC,103,,4,,2,,,5
+27,Manufacturing Processes,ETME,215,9;13,,,3,,,5
+28,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,6
+29,Engineering Economic Analysis,EGEN,325,4,,,3,,,6
+30,Interaction Design,EIND,410,19,,,2,,,6
+31,DOE for Engineers,EIND,455,23,,,3,,,6
+32,Prin of Operations Research II,EIND,464,23;24,,,3,,,6
+33,Production & Engineering Mgmt,EIND,458,,32,,3,,,6
+34,Introduction to Computer Integrated Manufacturing,EIND,371,27,,,3,,,7
+35,Project Management for Engineers,EIND,434,,,,3,,,7
+36,Introduction to Simulation,EIND,422,17;23,,,3,,,7
+37,IMSE Cognate Elective2,ELEC,,,,,3,,,7
+38,Facility and Material Handling Systems Design,EIND,442,19;26;27,22,,3,,,7
+39,Industrial Engineering Design Capstone,EIND,499R,22;28;29;35;36,33,,3,,,8
+40,Quality Management Systems,EIND,477,23,,,3,,,8
+41,Fundamentals of Engineering Exam,EGEN,488,,,,0,,,8
+42,University Core Electives,ELEC,,,,,3,,,8
+43,IMSE Cognate Elective2,ELEC,,,,,6,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

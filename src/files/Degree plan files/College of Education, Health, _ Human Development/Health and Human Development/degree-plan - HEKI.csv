@@ -1,0 +1,44 @@
+Curriculum,Health and Human Performance - Kinesiology Option,,,,,,,,,
+Degree Plan,Health and Human Performance - Kinesiology Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,19.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,College Chemistry I,CHMY,141,,,,3,,,1
+2,College Chemistry I Lab,CHMY,142,,,1,1,,,1
+3,Precalculus,M,151Q,,,,4,,,1
+4,Intro to Psychology,PSYX,100IS,,,,4,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,University Core,CORE,,,,,3,,,1
+7,Business & Entrepreneurship Fundamentals,BGEN,204,,,,3,,,2
+8,Introduction to Public Speaking,COMX,111US,,,,3,,,2
+9,Foundations of Exercise Science,KIN,105,,,,3,,,2
+10,Basic Human Nutrition,NUTR,221CS,,,,3,,,2
+11,University Core,CORE,,,,,3,,,2
+12,Human Anatomy and Physiology I,BIOH,201,1,,,5,,,3
+13,College Physics I,PHSX,205,,,,4,,,3
+14,Principles of Strength and Conditioning,KIN,210,,,,3,,,3
+15,University Core,CORE,,,,,3,,,3
+16,Directed Electives,ELEC,,,,,4,,,4
+17,Human Anatomy and Physiology II,BIOH,211,12,,,4,,,4
+18,Elective,ELEC,,,,,3,,,4
+19,Introduction to Statistics,STAT,216Q,,,,3,,,4
+20,Research Methods in HHD,HDFS,371,3,,,3,,,5
+21,Kinesiology,KIN,322,3;12,,,4,,,5
+22,Management and Organization,BMGT,335,7,,,3,,,5
+23,Directed Electives,ELEC,,,,,6,,,5
+24,Exercise Physiology,KIN,320,,17,,4,,,6
+25,Health Behavior Theories,CHTH,317,4,,,3,,,6
+26,Exercise Program for Older Adults,KIN,370,,,,3,,,6
+27,Biomechanics,KIN,325R,3;13;20;21,19,,4,,,6
+28,Motor Control and Learning,KIN,330,12;20;21;24,,,4,,,7
+29,Adv Strength Training and Cond,KIN,410,24,,,3,,,7
+30,Nutrition for Sports/Exercise,NUTR,411,10;12,,,4,,,7
+31,Directored Elective,ELEC,,,,,3,,,7
+32,Physical Fitness Program Design and Delivery,KIN,430,24,,,3,,,8
+33,Directed Electives,ELEC,,,,,8,,,8
+34,Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

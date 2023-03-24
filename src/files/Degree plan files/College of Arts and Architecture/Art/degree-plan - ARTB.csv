@@ -1,0 +1,43 @@
+Curriculum,Arts in Art - Art Education K-12 Broadfield Option,,,,,,,,,
+Degree Plan,Arts in Art - Art Education K-12 Broadfield Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,50.0712,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Visual Language - Drawing,ARTZ,105RA,,,,3,,,1
+2,Visual Language: Comprehensive Foundation,ARTZ,109RA,,,,3,,,1
+3,Art of World Civilization I,ARTH,200IA,,,,4,,,1
+4,University Core and Electives,ELEC,,,,,4,,,1
+5,Visual Language: Ideation and Creativity,ARTZ,110RA,,,,3,,,2
+6,Introduction to Adobe,MART,122,,,,2,,,2
+7,Art of World Civilization II,ARTH,201IA,,,,4,,,2
+8,Educ Psych and Adolescent Dev,EDU,223IS,,,,3,,,2
+9,Drawing I,ARTZ,211RA,1;2,,,4,,,2
+10,Choose one ARTZ course,ARTZ,2xx,,,,4,,,3
+11,Choose one ARTZ course,ARTZ,2xx,,,,4,,,3
+12,Multicultural Education,EDU,211D,8,,,3,,,3
+13,University Core and Electives,ELEC,,,,,5,,,3
+14,Choose one ARTZ course,ELEC,,,,,4,,,4
+15,Managing the Learning Environment for K-12/Secondary,EDU,347,8,,,2,,,4
+16,Integrating Tech into Educ,EDU,370,8,,,3,,,4
+17,University Core and Electives,ELEC,,,,,5,,,4
+18,Intermediate Drawing,ARTZ,312,9,,,5,,,5
+19,Choose one ARTZ course,ELEC,,,,,4,,,5
+20,"Assessmt, Curric, Instructn",EDU,382,8,,,3,,,5
+21,Exceptional Learners,EDSP,306,8,,,3,,,5
+22,University Core & Electives,ELEC,,,,,1,,,5
+23,Choose one ARTZ course,ELEC,,,,,4,,,6
+24,Choose one ARTH course,ELEC,,,,,3,,,6
+25,Practicum: 5-12/K-12,EDP,304,20,,,2,,,6
+26,Practicum Lab: 5-12/K-12,EDP,305,20,,,1,,,6
+27,Methods: K-4 Art,EDM,308,20,,,3,,,6
+28,Methods: 5-12 Art,EDM,408,20,,,3,,,6
+29,Choose one ARTZ course,ELEC,,,,,5,,,7
+30,Choose one ARTZ course,ELEC,,,,,5,,,7
+31,Choose one ARTH course,ELEC,,,,,3,,,7
+32,University Core & Electives,ELEC,,,,,5,,,7
+33,Student Teaching,EDU,495R,,,,12,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

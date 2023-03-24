@@ -1,0 +1,54 @@
+Curriculum,Environmental Engineering,,,,,,,,,
+Degree Plan,EnvE Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.1401,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,College Chemistry I,CHMY,141,,,,3,,,1
+2,College Chemistry I LAB,CHMY,142,,,1,1,,,1
+3,Calculus I,M,171Q,,,,4,,,1
+4,College Writing I,WRIT,101W,,,,3,,,1
+5,First Year Seminar,US,101US,,,,3,,,1
+6,Intro To Civil Engineering,ECIV,101,,,,1,,,1
+7,College Chemistry II,CHMY,143,1,,,3,,,2
+8,College Chemistry II,CHMY,144,,,7,1,,,2
+9,Calculus II,M,172Q,3,,,4,,,2
+10,Physics I with Calculus,PHSX,220,,,,4,,,2
+11,Applied Analysis,ECIV,202,3,,,1,,,2
+12,"IA, IH, IS, or D Core",CORE,IA/IH/IS/D,,,,3,,,2
+13,Principles of Living Systems,BIOB,160,1,,,4,,,3
+14,Multivariable Calculus,M,273Q,9,,,4,,,3
+15,Engineering Mechanics-Statics,EGEN,201,10,14,,3,,,3
+16,Soils,ENSC,245IN,,,,3,,,3
+17,Elementary Principles of Chemical and Biological Engineering,ECHM,201,1;3,,,4,,,3
+18,Mechanics of Materials,EGEN,205,14;15,,,3,,,4
+19,Introduction to Differential Equation,M,274,9,,,4,,,4
+20,Introduction to Drafting and Design,DDSN,131,,,,3,,,4
+21,Chemistry for Environmental Engineers,EENV,240,7,,,3,,,4
+22,"IA, IH, IS, or D Core",CORE,IA/IH/IS/D,,,,3,,,4
+23,General Microbiology,BIOM,360,13,,,5,,,5
+24,Physical and Chemical Treatment Processes,EENV,341,17;21,,,4,,,5
+25,Civil Engineering Fluid Mechanics,ECIV,337,15,,,3,,,5
+26,Applied Engineering Data Analysis,EGEN,350,9,,,2,,,5
+27,Business Fundamentals for Technical Professionals**,EGEN,330,3,,,3,,,5
+28,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,6
+29,Biological Treatment Processes,EENV,342,24,,,4,,,6
+30,Environmental Laws and Regulations,EENV,387,21,,,3,,,6
+31,Construction Practice,ECIV,308,17,,,3,,,6
+32,Water Resources Engineering,ECIV,333,25;26,,,4,,,6
+33,"IA, IH, IS, or D Core",CORE,IA/IH/IS/D,,,,3,,,7
+34,Civil Eng Practice and Ethics,ECIV,401,,,35,1,,,7
+35,Environmental Engineering Design I,EENV,489R,24;28;32,27,,2,,,7
+36,Water Resources Electives,ELEC,,,,,3,,,7
+37,Environmental Engineering Electives,ELEC,,,,,3,,,7
+38,Professional Elective,ELEC,,,,,3,,,7
+39,Fundamentals of Engineering Exam,EGEN,488,,,,0,,,8
+40,Environmental Engineering Design II,EENV,499R,35,,,2,,,8
+41,"IA, IH, IS, or D Core",CORE,IA/IH/IS/D,,,,3,,,8
+42,Water Resources Electives,ELEC,,,,,3,,,8
+43,Environmental Engineering Electives,ELEC,,,,,3,,,8
+44,Professional Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,54 @@
+Curriculum,Mechanical Engineering Technology,,,,,,,,,
+Degree Plan,Mech Tech Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,15.0805,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Introduction to General Chemistry,CHMY,121IN,,,,3,,,1
+2,Introduction to General Chemistry Lab,CHMY,122IN,,,1,1,,,1
+3,College Writing I,WRIT,101W,,,,3,,,1
+4,Calculus for Technology I,M,165Q,,,,3,,,1
+5,Introduction to Mechanical Engineering Technology,ETME,100,,,,1,,,1
+6,University Core Electives,ELEC,,,,,6,,,1
+7,Introduction to Public Speaking,COMX,111US,,,,3,,,2
+8,Calculus for Technology II,M,166Q,4,,,3,,,2
+9,CAE I-Engineering Graphics Communications,EMEC,103,,4,,2,,,2
+10,College Physics I,PHSX,205,,,,4,,,2
+11,University Core Electives,ELEC,,,,,3,,,2
+12,Business Elective,ELEC,,,,,3,,,3
+13,Mechanical Engineering Materials,EMEC,250,3,1;8,,3,,,3
+14,Materials Struct and Prop Lab,EMAT,252,1;3,4,13,1,,,3
+15,Applied Mechanics,EGEN,203,10,8,,3,,,3
+16,Mechanical Engineering Technology Computer Applications,ETME,202,,,,1,,,3
+17,College Physics II,PHSX,207,10,,,4,,,3
+18,Applied Strength of Materials,EGEN,208,8;15,,,3,,,4
+19,Manufacturing Processes,ETME,215,8;13,,,3,,,4
+20,Manufacturing Process Laboratory,ETME,216,8;13;14,,19,1,,,4
+21,Applied Thermodynamics,EGEN,324,10,8,,3,,,4
+22,Mechanical Design Graphics,ETME,203,9,,,3,,,4
+23,"Circuits, Devices and Motors",EELE,250,8;17,,,4,,,4
+24,Applied Mechanics of Fluids,EGEN,331,18,,,3,,,5
+25,Applied Engineering Data Analysis,EGEN,350,8,,,2,,,5
+26,Measurement & Instrumentation,EMEC,360,23,16;21;25,27,3,,,5
+27,Measurement & Instrument Lab,EMEC,361,,,,1,,,5
+28,Machining and Industrial Safety,ETME,310,15;20,,,3,,,5
+29,Mechanisms,ETME,340,,,,4,,,5
+30,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,6
+31,CAE Tools in Mechanical Design,ETME,303,18;21;22,24;32,,3,,,6
+32,Applied Heat Transfer,ETME,321,21,24,,3,,,6
+33,Joining Processes,ETME,311,9,20,,3,,,6
+34,Machine Design,ETME,341,18;20,,,4,,,6
+35,Business Fundamentals for Technical Professionals,EGEN,330,4,,,3,,,7
+36,Principles of HVAC I,ETME,422,21;32,,,3,,,7
+37,Thermal Processes Lab,ETME,424,,36,,1,,,7
+38,Capstone: Mechanical Engineering Technology Design I,ETME,489,30,26;28;29;31;33;34;35,,2,,,7
+39,Professional Electives,ELEC,,,,,6,,,7
+40,Design for Manufacturing and Tooling,ETME,415,19;20,25;28,,3,,,8
+41,Capstone: Mechanical Engineering Technology Design II,ETME,499R,16;24;26;27;28;29;31;32;33;34;35,,,3,,,8
+42,Fundamentals of Engineering Exam,EGEN,488,,,,0,,,8
+43,Professional Electives,ELEC,,,,,6,,,8
+44,University Core Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,45 @@
+Curriculum,Agricultural Business - Farm and Ranch Management Concentration,,,,,,,,,
+Degree Plan,Agricultural Business - Farm and Ranch Management Concentration,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Economic Way of Thinking,ECNS,101IS,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,Leadership Dev For Agriculture,AGED,140US,,,,3,,,1
+4,University Core and General Electives,ELEC,,,,,3,,,1
+5,Principles of Living Systems,BIOB,160,,,,3,,,1
+6,Principles of Macroeconomics,ECNS,202,1,,,3,,,2
+7,Survey of Calculus,M,161Q,,,,4,,,2
+8,Choose one BIOB course,BIOB,1xx,,,,3,,,2
+9,Choose one CHMY course,CHMY,1xx,,,,4,,,2
+10,Microeconomics,ECNS,204IS,1,,,3,,,3
+11,Principles of Financial Acct,ACTG,201,,,,3,,,3
+12,Introduction to Statistics,STAT,216Q,,,,3,,,3
+13,Data Analytics I,BMIS,211,,,,3,,,3
+14,University Core and General Electives,ELEC,,,,,3,,,3
+15,Principles of Managerial Accounting,ACTG,202,11,,,3,,,4
+16,Directed Major Electives: Communication.,ELEC,,,,,3,,,4
+17,Directed Major Electives: Social Sciences3,ELEC,,,,,3,,,4
+18,University Core and General Electives,ELEC,,,,,6,,,4
+19,Economics of Ag Marketing,AGBE,321,10,,,3,,,5
+20,Ag Finance and Credit Analysis,AGBE,345,10,,,3,,,5
+21,Intermediate Micro with Calc,ECNS,301,7;10,,,3,,,5
+22,Managerial Economics,ECNS,309,7;10,,,3,,,5
+23,University Core and General Electives,ELEC,,,,,3,,,5
+24,Farm and Ranch Management,AGBE,341,20;22,,,3,,,6
+25,Intermediate Macro with Calc,ECNS,303,6;7;10,,,3,,,6
+26,Advanced Ag Marketing,AGBE,421,19,,,3,,,6
+27,Agribusiness Management,AGBE,445,12;20;21,,,3,,,6
+28,Directed Major Electives: Social Sciences,ELEC,,,,,3,,,6
+29,Economics of Ag Policy,AGBE,451RS,21,,,3,,,7
+30,Agricultural Law,AGBE,337,,,,3,,,7
+31,University Core and General Electives,ELEC,,,,,9,,,7
+32,Choose one AGSC course,AGSC,3xx,,,,3,,,8
+33,Choose one ANSC course,ANSC,1xx,,,,3,,,8
+34,Choose one NRSM course,NRSM,1xx,,,,3,,,8
+35,University Core and General Electives,ELEC,,,,,6,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

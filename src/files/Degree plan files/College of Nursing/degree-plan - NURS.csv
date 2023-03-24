@@ -1,0 +1,61 @@
+Curriculum,Nursing,,,,,,,,,
+Degree Plan,Nursing,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,51.3801,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Introduction to General Chemistry,CHMY,121IN,,,,3,,,1
+2,Introduction to General Chemistry Lab,CHMY,122IN,,,1,1,,,1
+3,Introduction to Public Speaking,COMX,111US,,,,3,,,1
+4,College Algebra,M,121Q,,,,3,,,1
+5,"IA, IH, or D CORE",CORE,,,,,3,,,1
+6,Electives,ELEC,,,,,3,,,1
+7,Human Anatomy and Physiology I,BIOH,201,1,,,5,,,2
+8,Microbiology for Health Sciences: Infectious Diseases,BIOM,250,,,,3,,,2
+9,Microbiology for Health Sciences Lab,BIOM,251,,,8,1,,,2
+10,Intro to Sociology or Intro to Psychology,SOCI,101IS,,,,3,,,2
+11,College Writing I,WRIT,101W,,,,3,,,2
+12,Human Anatomy and Physiology II,BIOH,211,7,,,4,,,3
+13,Introduction to Statistics,STAT,216Q,4,,,3,,,3
+14,College Writing II,WRIT,201,11,,,3,,,3
+15,Indiv and Fam Dev: Lifespan,HDFS,101IS,,,,3,,,3
+16,"IA, IH, or D CORE",CORE,,,,,4,,,3
+17,Introduction to Organic Chemistry and Biochemistry,CHMY,123,1,,,3,,,4
+18,Introduction to Organic and Biochemistry Lab,CHMY,124,2,,17,1,,,4
+19,Basic Human Nutrition,NUTR,221CS,,,,3,,,4
+20,Introduction to Professional Nursing,NRSG,116,,,,2,,,4
+21,"D, IA, or IH CORE",CORE,,,,,3,,60,4
+22,Concepts in Psychosocial Nursing,NRSG,314,,,,2,,60,5
+23,Pathophysiology and Pharmacotherapeutics for Nurses I,NRSG,316,,,,3,,,5
+24,Professional Development I: Professional and Ethical Nursing,NRSG,323,,,,1,,,5
+25,Foundations of Nursing Care,NRSG,327,,,,2,,,5
+26,Foundations of Nursing Lab,NRSG,328,,,,3,,,5
+27,Adult Health Assessment,NRSG,329,,,,3,,,5
+28,Nursing Simulation,NRSG,400,,,,1,,,5
+29,Pathophysiology and Pharmacotherapeutics for Nurses II,NRSG,317,,,,3,,,6
+30,Professional Development II: Evidence Based Practice,NRSG,324R,,,,3,,,6
+31,Nursing Concepts for Health Promotion,NRSG,332,,,,2,,,6
+32,Nursing Practice for Health Promotion,NRSG,334,,,,1,,,6
+33,Nursing Concepts in Reproductive Health,NRSG,354,,,,2,,,6
+34,Nursing Concepts in Pediatric Care,NRSG,357,,,,2,,,6
+35,Nursing Practice in Reproductive Health and Pediatric Care,NRSG,359,,,,3,,,6
+36,Nursing Simulation,NRSG,400,,,,1,,,6
+37,Nursing Simulation,NRSG,400,,,,1,,,7
+38,Professional Development III: Care Management,NRSG,403,,,,2,,,7
+39,Nursing Concepts in Chronic Care,NRSG,408,,,,2,,,7
+40,Nursing Practice in Chronic Care,NRSG,409,,,,2,,,7
+41,Nursing Concepts in Population Health,NRSG,426,,,,2,,,7
+42,Nursing Practice in Population Health,NRSG,427,,,,2,,,7
+43,Nursing Concepts in Psychiatric/Mental Health,NRSG,431,,,,2,,,7
+44,Nursing Practice in Psychiatric/Mental Health,NRSG,432,,,,1,,,7
+45,Nursing Simulation,NRSG,400,,,,1,,,8
+46,Professional Development IV: Nursing Leadership and Transition to Practice,NRSG,412,,,,2,,,8
+47,Health Policy & Economics,NRSG,452,,,,2,,,8
+48,Nursing Concepts in Acute Care,NRSG,470,,,,2,,,8
+49,Nursing Practice in Acute Care,NRSG,471,,,,2,,,8
+50,Management of Healthcare Systems,NRSG,480,,,,2,,,8
+51,Professional Internship,NRSG,498,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

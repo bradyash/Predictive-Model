@@ -1,0 +1,44 @@
+Curriculum,Earth Science - GIS/Planning option,,,,,,,,,
+Degree Plan,Earth Science - GIS/Planning option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,40.0601,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Earth System Sciences,ERTH,101IN,,,,4,,,1
+2,Human Geography,GPHY,121D,,,,3,,,1
+3,Geography of World Regions,GPHY,141D,,,,3,,,1
+4,Economic Way of Thinking,ECNS,101IS,,,,3,,,1
+5,Web Design,MART,145RA,,,,3,,,1
+6,Precalculus,M,151Q,,,,4,,,1
+7,College Writing I,WRIT,101W,,,,3,,,1
+8,"University Core, Prerequisites and Electives",ELEC,,,,,6,,,1
+9,Intro to GIS Science & Cartog,GPHY,284,,,,3,,,2
+10,Soils,ENSC,245IN,,,,3,,,2
+11,Introduction to American Government,PSCI,210IS,,,,3,,,2
+12,Joy and Beauty of Data,CSCI,127,,,,4,,,2
+13,Introduction to Statistics,STAT,216Q,,,,3,,,2
+14,Intermediate Statistical Concepts,STAT,217Q,13,,,3,,,2
+15,College Writing II,WRIT,201,7,,,3,,,2
+16,Introduction to CAD,DDSN,114,,,,3,,,2
+17,"University Core, Prerequisites and Electives",ELEC,,,,,6,,,2
+18,Weather and Climate,ERTH,303,1,,,3,,,3
+19,Principles of Geomorphology,ERTH,307,1;9,,,4,,,3
+20,Adv GIS and Spatial Analysis,GPHY,384,9,,,3,,,3
+21,Geographical Planning,GPHY,365,,,,3,,,3
+22,GPS Fund/App in Mapping,GPHY,357,9,,,3,,,3
+23,Remote Sensing,GPHY,426,,,,3,,,3
+24,Choose one GPHY course,GPHY,3xx,,,,3,,,3
+25,Choose one GPHY course,GPHY,4xx,,,,3,,,3
+26,"University Core, Prerequisites and Electives",ELEC,,,,,5,,,3
+27,Applied GIS & Spatial Analysis,GPHY,484R,9;13,,,3,,,4
+28,Choose one BIOE course,BIOE,4xx,,,,3,,,4
+29,Choose one NRSM course,NRSM,4xx,,,,3,,,4
+30,Choose one GPHY course,GPHY,4xx,,,,3,,,4
+31,Choose one GPHY course,GPHY,4xx,,,,3,,,4
+32,Choose one STAT course,STAT,4xx,,,,3,,,4
+33,Choose one STAT course,STAT,4xx,,,,3,,,4
+34,"University Core, Prerequisites and Electives",ELEC,,,,,9,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

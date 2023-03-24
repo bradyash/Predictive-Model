@@ -1,0 +1,50 @@
+Curriculum,Hospitality Management - Food Enterprise option,,,,,,,,,
+Degree Plan,Hospitality Management - Food Enterprise option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,52.0901,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Introduction to Culinary Arts,CULA,102,,,,3,,,1
+2,Food Safety Sanitation,CULA,105,,,,1,,,1
+3,Introduction to Hospitality Management,HTR,107,,,,3,,,1
+4,College Algebra,M,121Q,,,,3,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,Unseen Universe: Microbes,BIOM,103IN,,,,3,,,2
+7,Pathways to Career Advancement I,HTR,205,3,,,1,,,2
+8,Basic Human Nutrition,NUTR,221CS,,,,3,,,2
+9,Introduction to Animal Science,ANSC,100,,,,3,,,2
+10,University Core and Electives,ELEC,,,,,7,,,2
+11,Accounting and Finance Basics,BGEN,210,4,,,3,,,3
+12,Prof Business Communication,BMGT,205,5;10,,,3,,,3
+13,Introduction to General Chemistry,CHMY,121IN,,4,,3,,,3
+14, Introduction to General Chemistry Lab,CHMY,122IN,,,13,1,,,3
+15,Economic Way of Thinking,ECNS,101IS,,,,3,,,3
+16,Introduction to Statistics,STAT,216Q,,,,3,,,3
+17,Hospitality Supervision and Customer Service,CULA,250,3,,,3,,,4
+18,Sustainability in the Hospitality Industry,HTR,220,3,,,3,,,4
+19,Food Fundamentals,NUTR,226,8,,,3,,,4
+20,Food Fundamentals Lab,NUTR,227,8,,,2,,,4
+21,Practicum or Internship,SFBS,296,,,,3,,,4
+22,Management and Organization,BMGT,335,5,,,3,,,5
+23,Principles of Marketing,BMKT,325,15,,,3,,,5
+24,Food and Culture,NUTR,301,19;20,,,3,,,5
+25,Intro to Meat Evaluation,ANSC,205,9,,,2,,,5
+26,University Core or Directed Electives,ELEC,,,,,4,,,5
+27,Research Methods in HHD,HDFS,371,4,,,3,,,6
+28,Nutrition and Society,NUTR,351,8,,,3,,,6
+29,Food Processing,NUTR,430,19,,,3,,,6
+30,University Core or Electives,ELEC,,,,,6,,,6
+31,Integrated Marketing Communication,BMKT,343,23,,,3,,,7
+32,Hospitality Management Internship II,HTR,498,,,,3,,,7
+33,Experimental Foods,NUTR,435,19;20,,,3,,,7
+34,Small Business and Entrepreneurship in Food and Health,SFBS,429,15,,,3,,,7
+35,University Core,CORE,,,,,3,,,7
+36,Principles of Business Law,BGEN,361,,,,3,,,8
+37,Capstone: Hospitality Management Systems and Strategy,HTR,499,,,,3,,,8
+38,Practicum Food Product Development,NUTR,496,29,,,3,,,8
+39,Sustainable Food Systems,SFBS,451R,8,,,3,,,8
+40,Directed Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

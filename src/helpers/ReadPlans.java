@@ -45,7 +45,7 @@ public class ReadPlans {
         }
         System.out.println("");
         if (dictionary.checkDictionary(splitPathName[4])) {
-            name = dictionary.getDictItem(splitPathName[4]).strip();
+            name = splitPathName[4];
         }
         Major major = null;
         if(majors.containsKey(name)) {
@@ -54,6 +54,7 @@ public class ReadPlans {
         // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
             error = ("ERROR: Major \"" + name + "\" not in system");
+            System.out.println(error);
             return error;
         }
 

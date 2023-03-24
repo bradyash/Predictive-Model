@@ -1,0 +1,46 @@
+Curriculum,Physics - Physics Teaching Option,,,,,,,,,
+Degree Plan,Physics - Physics Teaching Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Indiv and Fam Dev: Lifespan,HDFS,101IS,,,,3,,,1
+2,Honors Gen & Mod Phys I,PHSX,240,,3,,4,,,1
+3,Calculus I,M,171Q,,,,4,,,1
+4,University Core and Electives,ELEC,,,,,5,,,1
+5,Honors Gen & Mod Phys II,PHSX,242,2;3,6,,4,,,2
+6,Calculus II,M,172Q,3,,,4,,,2
+7,"Biol,Chem, or Earth Science Electives",ELEC,,,,,3,,,2
+8,University Core and Electives,ELEC,,,,,4,,,2
+9,Educ Psych and Adolescent Dev,EDU,223IS,,,,3,,,3
+10,Physics III,PHSX,224,5;6,,,4,,,3
+11,Laboratory Electronics I,PHSX,261,,,,3,,,3
+12,Multivariable Calculus,M,273Q,6,,,4,,,3
+13,University Core and Electives,ELEC,,,,,2,,,3
+14,Multicultural Education,EDU,211D,9,,,3,,,4
+15,Introduction to Theoretical Physics,PHSX,301,5;12,16,,3,,,4
+16,Introduction to Differential Equation,M,274,6,,,4,,,4
+17,Methods of Proof,M,242,6,,,3,,,4
+18,University Core and Electives,ELEC,,,,,3,,,4
+19,Higher Math for Sec Teachers,M,328,17,,,3,,,5
+20,Classical Mechanics,PHSX,320,2;15,,,3,,,5
+21,Modern Physics,PHSX,343,10;15;16,,,3,,,5
+22,Solar System Astronomy,ASTR,371,2,5,,4,,,5
+23,University Core and Electives,ELEC,,,,,4,,,5
+24,Integrating Tech into Educ,EDU,370,9,,,3,,,6
+25,"Assessmt, Curric, Instructn",EDU,382,9,,,3,,,6
+26,Exceptional Learners,EDSP,306,9,,,3,,,6
+27,Electricity and Magnetism I,PHSX,423,5;15,,,3,,,6
+28,Modern Geometry,M,329,17,,,3,,,6
+29,University Core and Electives,ELEC,,,,,3,,,6
+30,Introduction to Statistics,STAT,216Q,,,,3,,,7
+31,Practicum II: K-8,EDP,301,25,,,3,,,7
+32,Practicum Lab: 5-12/K-12,EDP,305,25,,,1,,,7
+33,Methods: 5-12 Science,EDM,403,25,,,3,,,7
+34,Physics Electives,ELEC,,,,,3,,,7
+35,Student Teaching,EDU,495,14;24;31;32;33,,,12,,,8
+36,Professional Issues: K-12,EDU,408,,,,2,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

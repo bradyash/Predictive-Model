@@ -1,0 +1,42 @@
+Curriculum,Art - Art History Option,,,,,,,,,
+Degree Plan,Art - Art History Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,50.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Visual Language: Comprehensive Foundation,ARTZ,109RA,,,,3,,,1
+2,Introduction to Adobe,MART,122,,,,2,,,1
+3,Art of World Civilization I,ARTH,200IA,,,,4,,,1
+4,University Core and Electives,ELEC,,,,,7,,,1
+5,Art of World Civilization II,ARTH,201IA,,,,4,,,2
+6,Visual Language: Ideation and Creativity,ARTZ,110RA,,,,3,,,2
+7,Humanities Elective,ELEC,,,,,3,,,2
+8,University Core and Electives,ELEC,,,,,4,,,2
+9,Choose one ARTH course,ARTH,3xx,3,,,3,,,3
+10,Choose one ARTH course,ARTH,4xx,5,,,3,,,3
+11,Foreign Language,ELEC,,,,,3,,,3
+12,University Core and Electives,ELEC,,,,,6,,,3
+13,Choose one ARTH course,ARTH,4xx,5,,,3,,,4
+14,Foreign Language,ELEC,,,,,3,,,4
+15,Humanities Elective Requirement,ELEC,,,,,3,,,4
+16,University Core and Electives,ELEC,,,,,6,,,4
+17,Independent Study,ARTH,492,,,,1,,,5
+18,Choose one ARTH course,ARTH,3xx,,,,3,,,5
+19,Choose one ARTH course,ARTH,3xx,3;5,,,3,,,5
+20,Foreign Language,ELEC,,,,,3,,,5
+21,University Core and Electives,ELEC,,,,,5,,,5
+22,Independent Study,ARTH,492,,,,1,,,6
+23,Choose one ARTH course,ARTH,4xx,5,,,3,,,6
+24,Choose one ARTH course,ARTH,4xx,3;5,,,3,,,6
+25,Foreign Language,ELEC,,,,,3,,,6
+26,University Core and Electives,ELEC,,,,,5,,,6
+27,Art History Electives,ARTH,3xx,3;5,,,6,,,7
+29,University Core and Electives,ELEC,,,,,9,,,7
+30,Senior Thesis: Art History,ARTH,499R,,,,3,,,8
+31,Art History Electives,ARTH,3xx,3;5,,,6,,,8
+33,Humanities Elective Requirement,ELEC,,,,,3,,,8
+34,University Core and Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

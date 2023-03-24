@@ -1,0 +1,40 @@
+Curriculum,Microbiology - Environmental Health Option,,,,,,,,,
+Degree Plan,Microbiology - Environmental Health Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,College Chemistry I,CHMY,141,,,,3,,,1
+2,College Chemistry I Lab,CHMY,142,,,1,1,,,1
+3,Principles of Living Systems,BIOB,160,,,,4,,,1
+4,Precalculus,M,151Q,,,,4,,,1
+5,College Chemistry II,CHMY,143,1,,,3,,,1
+6,College Chemistry II Lab,CHMY,144,,,5,1,,,1
+7,Intro to GIS Science & Cartog,GPHY,284,,,,3,,,1
+8,Core and/or Electives,ELEC,,,,,11,,,1
+9,Environmental Health Science,BIOM,210RN,,,,3,,,2
+10,Elements of Organic Chemistry,CHMY,211,5,,,4,,,2
+11,Elements of Organic Chemistry Lab,CHMY,212,6,,10,1,,,2
+12,College Physics I,PHSX,205,,,,4,,,2
+13,Natural Resource Conservation,NRSM,101,,,,3,,,2
+14,Integrated Physiology I,BIOH,185,1,,,3,,,2
+15,Statistical Measures of Well-Being ,HDFS,271,4,,,3,,,2
+16,Microbiology for Health Sciences: Infectious Diseases,BIOM,250,,,,3,,,2
+17,CORE and/or Electives,ELEC,,,,,6,,,2
+18,General Microbiology,BIOM,360,3,,,5,,,3
+19,Internship,MBEH,498,,,,3,,,3
+20,Environmental Laws and Regulations,EENV,387,10,,,3,,,3
+21,CORE and/or Electives,ELEC,,,,,19,,,3
+22,Seminar/Workshop ,BIOM,494,18,,,2,,,4
+23,Principles Of Epidemiology,CHTH,440,27;28,,,3,,,4
+24,Environmental Risk Assessment,ENSC,407,29,,,3,,,4
+25,Toxicology: Science of Poisons,BIOM,425,30,,,3,,,4
+26,CORE and/or Electives,ELEC,,,,,19,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,Research Methods in HHD,HDFS,371,,,,3,,,3
+28,Foundations in Community Health,CHTH,210,,,,3,,,1
+29,Principles of Biological Diversity,BIOB,170IN,,,,3,,,1
+30,Biochemistry,BCH,380,3;10,,,4,,,3

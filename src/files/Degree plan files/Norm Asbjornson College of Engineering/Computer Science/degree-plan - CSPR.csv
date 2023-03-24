@@ -1,0 +1,46 @@
+Curriculum,Computer Science - Professional Option,,,,,,,,,
+Degree Plan,CS Prof Option Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I,M,171Q,,,,4,,,1
+2,Joy and Beauty of Data,CSCI,127,,,,4,,,1
+3,College Writing I,WRIT,101W,,,,3,,,1
+4,University Core and Electives,ELEC,,,,,3,,,1
+5,University Seminar Core,,US,,,,3,,,2
+6,University Core and Electives,ELEC,,,,,4,,,2
+7,Calculus II,M,172Q,1,,,4,,,2
+8,Basic Data Structures and Algorithms,CSCI,132,2,,,4,,,2
+9,Discrete Structures,CSCI,246,1,8,,3,,,3
+10,Intermediate Tech Writing,WRIT,221,3,,,3,,,3
+11,Science Electives,ELEC,,,,,3,,,3
+12,Social & Ethical Issues in Computer Science,CSCI,215CS,3;5,,,3,,,3
+13,University Core,CORE,,,,,3,,,3
+14,Programming with C I,CSCI,112,2,,,3,,,4
+15,Data Structures and Algorithms,CSCI,232,8,,,4,,,4
+16,"Math, Statistics, or Probability Elective",ELEC,,,,,3,,,4
+17,Science Electives,ELEC,,,,,3,,,4
+18,University Core,CORE,,,,,3,,,4
+19,Software Engineering,ESOF,322,15,,,3,,,5
+20,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,5
+21,CS Electives,ELEC,,,,,3,,,5
+22,CS or Related Electives,ELEC,,,,,3,,,5
+23,Computer Systems,CSCI,366,14;15,,,3,,,5
+24,Concepts/Programming Languages,CSCI,305,9;15,,,3,,,6
+25,CS Electives,ELEC,,,,,6,,,6
+26,CS or Related Electives,ELEC,,,,,3,,,6
+27,Computer Science Theory,CSCI,338,9,,,3,,,6
+28,Science or Math Electives,ELEC,,,,,4,,,7
+29,"Math, Statistics, or Probability Elective",ELEC,,,,,3,,,7
+30,CS Electives,ELEC,,,,,6,,,7
+31,CS or Related Electives,ELEC,,,,,3,,,7
+32,Compilers,CSCI,468,,,,4,,,8
+33,Program Assessment,CSCI,481,,,,0,,,8
+34,Science or Math Electives,ELEC,,,,,3,,,8
+35,CS Electives,ELEC,,,,,4,,,8
+36,CS or Related Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

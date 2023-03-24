@@ -1,0 +1,27 @@
+Curriculum,Philosophy - Philosophy Option,,,,,,,,,
+Degree Plan,Philosophy - Philosophy Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,38.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Choose one lower division Philosophy class,PHL,1xx,,,,3,,,1
+2,University Core and Electives,ELEC,,,,,25,,,1
+3,Logic,PHL,236Q,,,,3,,,2
+4,One Year Modern Language,ELEC,,,,,8,,,2
+5,Choose one class in Ethics/Aesthetics/Political Philosophy,PHL,3xx,1,,,3,,,2
+6,University Core and Electives,ELEC,,,,,18,,,2
+7,Hist of Philo:Ancient/Medieval,PHL,361RH,1,,,3,,,3
+8,History of Philosophy: Modern,PHL,362,,,,3,,,3
+9,Choose one class in Metaphysics and Epistemology,PHL,3xx,1,,,3,,,3
+10,University Core and Electives,ELEC,,,,,21,,,3
+11,Seminar,PHL,494,,,,3,,,4
+12,Seminar,PHL,494,,,,3,,,4
+13,Choose one upper division Philosophy class,PHL,3xx,1,,,3,,,4
+14,Choose one upper division Philosophy class,PHL,3xx,1,,,3,,,4
+15,Choose one upper division Philosophy class,PHL,3xx,1,,,3,,,4
+16,Choose one upper division Philosophy class,PHL,4xx,1,,,3,,,4
+17,University Core and Electives,ELEC,,,,,12,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,31 @@
+Curriculum,Anthropology,,,,,,,,,
+Degree Plan,Anthropology,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,45.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Anthropology and the Human Experience,ANTY,101D,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,Introduction to Sociology,SOCI,101IS,,,,3,,,1
+4,University Core Seminar,ELEC,,,,,3,,,1
+5,Math Core,ELEC,,,,,3,,,1
+6,University Core and Electives,ELEC,,,,,15,,,1
+7,Human Prehistory,ANTY,215IS,,,,3,,,2
+8,"Culture, Language, and Society",ANTY,225IS,,,,3,,,2
+9,Introduction to Statistics,STAT,216Q,,,,3,,,2
+10,University Core and Electives,ELEC,,,,,21,,,2
+11,Biological Anthropology,ANTY,313,7,,,3,,,3
+12,Language & Culture,ANTY,473,8,,,3,,,3
+13,Archaeology elective,ANTY,3xx,,,,3,,,3
+14,Cultural Anthropology Elective,ANTY,3xx,,,,3,,,3
+15,Elective,ANTY,3xx,,,,6,,,3
+16,Elective,ANTY,3xx,,,,3,,,3
+17,University Core and Electives,ELEC,,,,,9,,,3
+18,Electives,ANTY,3xx,,,,9,,,4
+19,University Core and Electives,ELEC,,,,,18,,,4
+20,"Archaeological Theory
+or ANTY 428RS - Anthropological Theory",ANTY,450R,7,,,3,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

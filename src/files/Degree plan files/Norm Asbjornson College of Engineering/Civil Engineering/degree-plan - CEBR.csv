@@ -1,0 +1,51 @@
+Curriculum,Civil Engineering - Bio-Resources Option,,,,,,,,,
+Degree Plan,Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.0801,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,College Chemistry I,CHMY,141,,,,3,,,1
+2,College Chemistry I Lab,CHMY,142,,,1,1,,,1
+3,Calculus I,M,171Q,,,,4,,,1
+4,University Core,ELEC,,,,,3,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,Introduction to Drafting and Design,DDSN,131,,,,3,,,1
+7,Applied Analysis,ECIV,202,,,,1,,,2
+8,College Chemistry II,CHMY,143,1,,,3,,,2
+9,College Chemistry II Lab,CHMY,144,,,8,1,,,2
+10,Calculus II,M,172Q,3,,,4,,,2
+11,Physics I with Calculus,PHSX,220,,,,4,,,2
+12,Knowledge and Community,CLS,101US,,,,3,,,2
+13,Prof Business Communication,BMGT,205,5;12,,,3,,,3
+14,Principles of Living Systems,BIOB,160,,,,4,,,3
+15,Intro to Surveying for Engineers,SRVY,230,,,,3,,,3
+16,Engineering Mechanics-Statics,EGEN,201,11,17,,3,,,3
+17,Multivariable Calculus,M,273Q,10,,,4,,,3
+18,Engineering Mechanics -- Dynamics,EGEN,202,16;17,,,3,,,4
+19,Mechanics of Materials,EGEN,205,16;17,,,3,,,4
+20,Applied Engineering Data Analysis,EGEN,350,10,,,2,,,4
+21,Introduction to Differential Equation,M,274,10,,,4,,,4
+22,University Core,ELEC,,,,,3,,,4
+23,Principles of Biological Diversity,BIOB,170IN,,,,3,,,4
+24,Structures I,ECIV,312,19,,,3,,,5
+25,Geotechnical Engineering,ECIV,320,19,,,3,,,5
+26,Water Resources Engineering,ECIV,333,20;28,,,4,,,5
+27,Principles of Environmental Engineering,EENV,340,8,28,,3,,,5
+28,Fluid Mechanics,EGEN,335,18;19,,,3,,,5
+29,Construction Practice,ECIV,308,6;13,,,3,,,6
+30,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,6
+31,Applied Thermodynamics,EGEN,324,11,10,,3,,,6
+32,Business Fundamentals for Technical Professionals,EGEN,330,,,,3,,,6
+33,University Core,ELEC,,,,,3,,,6
+34,Natural Treatment Systems,EENV,441,27,,,3,,,7
+35,Civil Eng Practice and Ethics,ECIV,401,,,,1,,,7
+36,Civil Engineering Design I,ECIV,489R,25;29,32,35,2,,,7
+37,University Core and Prof. Electives,ELEC,,,,,9,,,7
+38,Advanced Engineering Hydrology,EENV,432,26,,,3,,,8
+39,Capstone: Civil Eng Design II,ECIV,499R,36,,,2,,,8
+40,Fundamentals of Engineering Exam,EGEN,488,,,,0,,,8
+41,Professional Electives,ELEC,,,,,9,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

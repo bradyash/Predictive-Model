@@ -1,0 +1,21 @@
+Curriculum,Psychology,,,,,,,,,
+Degree Plan,Psychology,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,42.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Intro to Psychology,PSYX,100IS,,,,4,,,1
+2,Contemporary Mathematics,M,105Q,,,,3,,,1
+3,University Core and Psychology Electives,ELEC,,,,,26,,,1
+4,Psychological Statistics,PSYX,222,1;2,,,4,,,2
+5,Research Design and Analysis,PSYX,225,4,,,3,,,2
+6,University Core and Psychology Electives,ELEC,,,,,23,,,2
+7,"Undergraduate Research
+or PSYX 495 - Field Pract in Applied Psy",PSYX,490R,5,,,3,,,3
+8,University Core and Psychology Electives,ELEC,,,,,27,,,3
+9,Senior Thesis/Capstone,PSYX,499R,5;7,,,3,,,4
+10,University Core and Psychology Electives,ELEC,,,,,27,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

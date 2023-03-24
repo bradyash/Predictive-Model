@@ -1,0 +1,47 @@
+Curriculum,Animal Science - Livestock Management and Industry Option,,,,,,,,,
+Degree Plan,Animal Science - Livestock Management and Industry Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,1.0901,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Natural Resource Conservation,NRSM,101,,,,3,,,1
+2,Montana Range Plants,NRSM,102,,,,1,,,1
+3,Introduction to General Chemistry,CHMY,121IN,,,,3,,,1
+4,Introduction to General Chemistry Lab,CHMY,122IN,,,3,1,,,1
+5,Leadership Dev For Agriculture,AGED,140US,,,,3,,,1
+6,Electives,ELEC,,,,,3,,,1
+7,Introduction to Animal Science,ANSC,100,,,,3,,,2
+8,Introduction to Organic Chemistry and Biochemistry,CHMY,123,3,,,3,,,2
+9,Introduction to Organic and Biochemistry Lab,CHMY,124,3;4,,8,1,,,2
+10,Principles of Living Systems,BIOB,160,,,,4,,,2
+11,Economic Way of Thinking,ECNS,101IS,,,,3,,,2
+12,Livestock Feeding,ANSC,202,7,,,3,,,3
+13,Natural Resource Ecology,NRSM,240,1,,,3,,,3
+14,Introduction to Statistics,STAT,216Q,,,,3,,,3
+15,University Core and Elective,ELEC,,,,,3,,,3
+16,Econ & Business Elective,ELEC,,,,,3,,,3
+17,Practicum Electives,ELEC,,,,,2,,,3
+18,Livestock in Sustain Systems,ANSC,222,,,,3,,,4
+19,Anatomy and Physiology of Domestic Animals - Lecture,ANSC,265,10,,,3,,,4
+20,Anatomy and Physiology of Domestic Animals - Lab,ANSC,266,10,,19,1,,,4
+21,Prof Business Communication,BMGT,205,5,,,3,,,4
+22,University Core and Electives,ELEC,,,,,5,,,4
+23,Animal Nutrition,ANSC,320,8;12;19;20,,,3,,,5
+24,Physiology of Animal Reproduction,ANSC,321,7;8;19;20,,,4,,,5
+25,Econ & Business Elective,ELEC,,,,,3,,,5
+26,University Core and Electives,ELEC,,,,,3,,,5
+27,Economics of Ag Business,AGBE,210IS,11,,,3,,,6
+28,Meat Science,ANSC,316,7;8;10,,,4,,,6
+29,Principles of Animal Breeding and Genetics,ANSC,322,7;10;14,,,3,,,6
+30,Disease of Domestic Livestock,ANSC,337,12;19;20,,,3,,,6
+31,Internship,ANSC,498,12;18,,,3,,,6
+32,Econ & Business Elective,ELEC,,,,,3,,,7
+33,Mgmt & Industry Elective,ELEC,,,,,6,,,7
+34,University Core and Electives,ELEC,,,,,6,,,7
+35,Livestock Management Elective,ELEC,,,,,6,,,8
+36,Mgmt & Industry Elective,ELEC,,,,,6,,,8
+37,University Core and Electives,ELEC,,,,,4,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

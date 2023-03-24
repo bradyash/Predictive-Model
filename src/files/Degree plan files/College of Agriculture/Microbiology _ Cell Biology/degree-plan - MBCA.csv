@@ -1,0 +1,57 @@
+Curriculum,"Microbiology - Medical Laboratory Science Option (Plan ""A"")",,,,,,,,,
+Degree Plan,"Microbiology - Medical Laboratory Science Option (Plan ""A"")",,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0503,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Careers in Microbiology,BIOM,101,,,,1,,,1
+2,College Chemistry I,CHMY,141,,,,3,,,1
+3,College Chemistry I LAB,CHMY,142,,,2,1,,,1
+4,University Core and Electives,ELEC,,,,,10,,,1
+5,College Chemistry II,CHMY,143,2,,,3,,,2
+6,College Chemistry II LAB,CHMY,144,,,4,1,,,2
+7,Principles of Living Systems,BIOB,160,,,,4,,,2
+8,Human Anatomy and Physiology I,BIOH,201,2,,,5,,,2
+9,University Core and Electives,ELEC,,,,,2,,,2
+10,Elements of Organic Chemistry,CHMY,211,5,,,4,,,3
+11,Elements of Organic Chemistry,CHMY,212,,,10,1,,,3
+12,Human Anatomy and Physiology II,BIOH,211,8,,,4,,,3
+13,University Core and Electives,ELEC,,,,,6,,,3
+14,Biochemistry,BCH,380,7;10,,,4,,,4
+15,Biochemistry LAB,BCH,381,,,14,1,,,4
+16,General Microbiology,BIOM,360,7,,,5,,,4
+17,Introduction to Statistics,STAT,216Q,,,,3,,,4
+18,University Core and Electives,ELEC,,,,,2,,,4
+19,Seminar/Workshop,BIOM,494,16,,,2,,,5
+20,Hematology Laboratory,BIOH,406,24,,,1,,,5
+21,Eukaryotic Cell Biology,BIOM,363,,,,3,,,5
+22,Immunology,BIOB,410,,10,,3,,,5
+23,Virology,BIOM,435,16,,,3,,,5
+24,Hematology,BIOH,405,14,,,3,,,5
+25,Microbial Genetics,BIOM,410,14;16,,,3,,,6
+26,Medical Bacteriology,BIOM,431,16,,,3,,,6
+27,Med Bacteriology Lab,BIOM,432,16,26,,2,,,6
+28,Eukaryotic Pathogens,BIOM,441,16,,,4,,,6
+29,University Core and Electives,ELEC,,,,,3,,,6
+30,Clinical Microbiology II,BIOH,476,,,,3,,,7
+31,Clinical Chemistry and Urinalysis II,BIOH,477,,,,3,,,7
+32,Clinic Immunohematology II,BIOH,478,,,,2,,,7
+33,Clinical Immunology/Serology,BIOH,479,,,,1,,,7
+34,Laboratory Practice II,BIOH,473,,,,1,,,7
+35,Clinical Hematology II,BIOH,474,,,,2,,,7
+36,Clinical Hemostasis,BIOH,475,,,,1,,,7
+37,Laboratory Practice III,BIOH,482,,,,2,,,8
+38,Clinical Hematology III,BIOH,484,,,,2,,,8
+39,Clinical Microbiology III and Molecular Diagnostics,BIOH,486,,,,2,,,8
+40,Clinical Chemistry III,BIOH,487,,,,2,,,8
+41,Clinical Immunohematology,BIOH,488,,,,3,,,8
+42,Laboratory Management,BIOH,489,,,,1,,,8
+43,Clinical Hematology and Body Fluids,BIOH,464,,,,2,,,9
+44,Clin Microbiology I,BIOH,466,,,,3,,,9
+45,Clinical Chemistry I,BIOH,467,,,,3,,,9
+46,Clinical Immunohematology I,BIOH,468,,,,3,,,9
+47,Essentials of Clinical Lab Practice,BIOH,469,,,,1,,,9
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

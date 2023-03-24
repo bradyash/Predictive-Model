@@ -1,0 +1,37 @@
+Curriculum,Microbiology -Environmental Microbiology Track,,,,,,,,,
+Degree Plan,Microbiology -Environmental Microbiology Track,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Principles of Living Systems,BIOB,160,,,,4,,,1
+2,College Chemistry I ,CHMY,141,,,,3,,,1
+3,College Chemistry I LAB,CHMY,142,,,2,1,,,1
+4,College Chemistry II,CHMY,143,2,,,3,,,1
+5,College Chemistry II LAB,CHMY,144,,,4,1,,,1
+6,Survey of Calculus,M,161Q,,,,4,,,1
+7,Biometry,BIOB,318,,,,3,,,1
+8,University Core and Electives,ELEC,,,,,11,,,1
+9,Organic Chemistry I,CHMY,321,4,,,3,,,2
+10,Organic Chemistry I LAB ,CHMY,322,,,8,1,,,2
+11,Organic Chemistry II,CHMY,323,9,,,3,,,2
+12,Organic Chemistry II LAB,CHMY,324,,,11,1,,,2
+13,General Microbiology,BIOM,360,1,,,5,,,2
+14,College Physics I,PHSX,205,,,,4,,,2
+15,College Physics II,PHSX,207,14,,,4,,,2
+16,Microbiology Electives,ELEC,,,,,3,,,2
+17,University Core and Electives,ELEC,,,,,6,,,2
+18,Biochemistry,BCH,380,1;10,,,4,,,3
+19,Biochemistry lab,BCH,381,,,18,1,,,3
+20,Microbial Genetics,BIOM,410,13;18,,,3,,,3
+21,Applied and Environmental Microbiology,BIOM,430,13,,,4,,,3
+22,Microbiology Electives,ELEC,,,,,6,,,3
+23,University Core and Electives,ELEC,,,,,12,,,3
+24,Microbial Physiology,BIOM,450,13;18,,,3,,,4
+25,Seminar/Workshop,BIOM,494,13,,,1,,,4
+26,Microbiology Electives,ELEC,,,,,6,,,4
+27,University Core and Electives,ELEC,,,,,20,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

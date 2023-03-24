@@ -1,0 +1,40 @@
+Curriculum,Economics,,,,,,,,,
+Degree Plan,Economics,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,45.0601,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Economic Way of Thinking,ECNS,101IS,,,,3,,,1
+2,Introduction to Public Speaking,COMX,111US,,,,3,,,1
+3,College Writing I,WRIT,101W,,,,3,,,1
+4,University Core and General Electives,ELEC,,,,,6,,,1
+5,Principles of Macroeconomics,ECNS,202,1,,,3,,,2
+6,Survey of Calculus,M,161Q,,,,4,,,2
+7,University Core and General Electives,ELEC,,,,,8,,,2
+8,Principles of Financial Acct,ACTG,201,,,,3,,,3
+9,Microeconomics,ECNS,204IS,1,,,3,,,3
+10,University Core and General Electives,ELEC,,,,,9,,,3
+11,College Writing II,WRIT,201,3,,,3,,,4
+12,Introduction to Statistics,STAT,216Q,,,,3,,,4
+13,"Choose directed Major Electives: Social Sciences from ANTH, ANTY, GPHY, HSTA, HSTR, POLS, PSCI (except PSCI 498), PSYX, and SOCI",ELEC,,,,,3,,,4
+14,University Core and General Electives,ELEC,,,,,6,,,4
+15,Agricultural Law,AGBE,337,,,,3,,,5
+16,Intermediate Micro with Calc,ECNS,301,9,,,3,,,5
+17,Intermediate Statistical Concepts,STAT,217Q,12,,,3,,,5
+18,University Core and General Electives,ELEC,,,,,3,,,5
+19,One Upper Division Directed Major Elective,ECNS,3xx,,,,3,,,5
+20,Intermediate Macro with Calc,ECNS,303,5;9,,,3,,,6
+21,"Choose directed Major Electives: Communication from BMGT 205, WRIT 221, WRIT 326, WRIT 429",ELEC,,,,,3,,,6
+22,"Choose directed Major Electives: Social Sciences from ANTH, ANTY, GPHY, HSTA, HSTR, POLS, PSCI (except PSCI 498), PSYX, and SOCI",ELEC,,,,,3,,,6
+23,University Core and General Electives,ELEC,,,,,3,,,6
+24,One Upper Division Directed Major Elective,ECNS,3xx,,,,3,,,6
+25,Benefit-Cost Analysis,ECNS,432R,16,,,3,,,7
+26,University Core and General Electives,ELEC,,,,,9,,,7
+27,One Upper Division Directed Major Elective,EFIN,3xx,,,,3,,,7
+28,University Core and General Electives,ELEC,,,,,9,,,8
+29,One Upper Division Directed Major Elective,ECNS,3xx,,,,3,,,8
+30,Directed 400-level Elective,ECNS,4xx,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

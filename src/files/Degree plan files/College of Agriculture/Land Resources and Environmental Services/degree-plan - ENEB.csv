@@ -1,0 +1,45 @@
+Curriculum,Environmental Sciences - Environmental Biology Option,,,,,,,,,
+Degree Plan,Environmental Sciences - Environmental Biology Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,3.0104,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Land Resourses and Environmental Sciences,ENSC,110,,,,3,,,1
+2,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+3,College Chemistry I,CHMY,141,,,,3,,,1
+4,College Chemistry I Lab, CHMY,142,,,3,1,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,Survey of Calculus,M,161Q,,,,4,,,2
+7,Principles of Living Systems,BIOB,160,,,,4,,,2
+8,College Chemistry II,CHMY,143,3,,,3,,,2
+9,College Chemistry II Lab,CHMY,144,,,8,1,,,2
+10,US Core,ELEC,,,,,3,,,2
+11,Soils,ENSC,245IN,,,,3,,,3
+12,Intro to GIS Science & Cartog,GPHY,284,,,,3,,,3
+13,College Physics I,PHSX,205,,,,4,,,3
+14,Biometry,BIOB,318,,,,3,,,3
+15,Univ. Core,ELEC,,,,,3,,,3
+16,Elements of Organic Chemistry,CHMY,211,8,,,4,,,4
+17,Elements of Organic Chemistry Lab,CHMY,212,9,,16,1,,,4
+18,General Microbiology,BIOM,360,7,,,5,,,4
+19,Role of Plants in the Environment,ENSC,210,7,,,3,,,4
+20,Evolution for Env Scientists,ENSC,260,7,,,3,,,4
+21,Environmental Biogeochemistry,ENSC,353,8;11,,,3,,,5
+22,General Biology,BIOE,370,2;14,,,3,,,5
+23,Biochemistry,BCH,380,7;16,,,5,,,5
+24,Univ. Core,ELEC,,,,,3,,,5
+25,Soil & Envirnmntl Microbiology,BIOM,452,8;11,,,3,,,6
+26,College Writing II (HONR 202IH),WRIT,201,5,,,3,,,6
+27,"Microbial Diversity, Ecology, and Evolution (even years)",BIOM,415,23,,,3,,,6
+28,Univ. Core,ELEC,,,,,6,,,6
+29,Watershed Hydrology,ENSC,444,11;13,,,3,,,7
+30,LRES Capstone,ENSC,499R,,,,3,,,7
+31,Directed Electives,ELEC,,,,,9,,,7
+32,Computational Techniques Environmental Science,ENSC,464,2,,,3,,,8
+33,Natural Resource Law,NRSM,430,26,,,3,,,8
+34,Ecosystem Biogeochem and Global Change,ENSC,468,21,,,3,,,8
+35,Directed Electives,ELEC,,,,,6,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,39 @@
+Curriculum,Landscape Architecture,,,,,,,,,
+Degree Plan,Landscape Architecture,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Design Fundamentals I,ARCH,151RA,,,,4,,,1
+2,Course HORT 120 Not Found,HORT,120,,,,3,,,1
+3,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+4,Introduction to General Chemistry,CHMY,121IN,,,5,3,,,1
+5,Introduction to General Chemistry LAB,CHMY,121IN,,,,1,,,1
+6,College Algebra,M,121Q,,,,3,,,1
+7,Introduction to Plant Biology,BIOB,110CS,,,,3,,,1
+8,Introduction to Horticulture,HORT,105,,,,3,,,1
+9,College Writing I,WRIT,101W,,,,3,,,1
+10,Soils,ENSC,245IN,6,,,3,,,2
+11,Woody Ornamentals,HORT,231,,,,3,,,2
+12,Sustainable Landscape Studio,HORT,201,,,,3,,,2
+13,Course HORT 202 Not Found,HORT,202,,,,3,,,2
+14,Landscape Dsgn/Hist/Theory,HORT,131,,,,3,,,2
+15,Herbaceous Ornamentals,HORT,232,3,,,3,,,2
+16,Landscape Graphics I,HORT,225,,,,3,,,2
+17,Course HORT 226 Not Found,HORT,226,,,,3,,,2
+18,CAD 1-A,DDSN,101,,,,2,,,2
+19,Web Design,MART,145RA,,,,0,,,3
+20,Planting Design,HORT,331,,,,3,,,3
+21,Course HORT 335 Not Found,HORT,335,,,,4,,,3
+22,Course HORT 336 Not Found,HORT,336,,,,4,,,3
+23,Principles of Financial Acct,ACTG,201,6,,,0,,,3
+24,Course HORT 432 Not Found,HORT,432,,,,4,,,4
+25,Portfolio Development,HORT,437,,,,0,,,4
+26,Course HORT 435,HORT,435,,,,4,,,4
+27,Choose one HORT course,HORT,3xx,,,,3,,,4
+28,One specialization course,ELEC,,,,,3,,,4
+29,One specialization course,ELEC,,,,,3,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

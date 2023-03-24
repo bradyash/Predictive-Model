@@ -1,0 +1,49 @@
+Curriculum,Financial Engineering,,,,,,,,,
+Degree Plan,Financial Eng Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,52.0899,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,College Chemistry I,CHMY,141,,,,3,,,1
+2,College Chemistry II,CHMY,142,,,1,1,,,1
+3,Joy and Beauty of Data,CSCI,127,,,,4,,,1
+4,Introduction to Financial Engineering,EFIN,101,,,,1,,,1
+5,Introduction to Public Speaking,COMX,111US,,,,3,,,1
+6,Calculus I,M,171Q,,,,4,,,1
+7,Honors Economics*,ECNS,251IS,,,,4,,,2
+8,Calculus II,M,172Q,6,,,4,,,2
+9,Physics I with Calculus,PHSX,220,,,,4,,,2
+10,College Writing I**,WRIT,101W,,,,3,,,2
+11,Basic Data Structures and Algorithms,CSCI,132,3,,,4,,,3
+12,Managerial Economics,ECNS,309,6;7,,,3,,,3
+13,"Econ Org, Finance & Credit",ECNS,345,7,,,3,,,3
+14,Multivariable Calculus,M,273Q,8,,,4,,,3
+15,University Core Electives,ELEC,,,,,3,,,3
+16,Data Structures and Algorithms,CSCI,232,11,,,4,,,4
+17,Intermediate Micro with Calc,ECNS,301,6;7,,,3,,,4
+18,Introduction to Linear Algebra,M,221,8,,,3,,,4
+19,Introduction to Differential Equation,M,274,8,,,4,,,4
+20,University Core Electives,ELEC,,,,,3,,,4
+21,Quantitative Method in Ag Econ,AGBE,467,17;18,,,3,,,5
+22,Money and Banking,ECNS,313,7,,,3,,,5
+23,Engineering Management & Ethics,EIND,300,5;10,,,3,,,5
+24,Engineering Probability and Statistics I,EIND,354,8,,,3,,,5
+25,Principles of Operations Research I,EIND,364,18,,,3,,,5
+26,Engineering & Economic Financial Management I,EFIN,301,3;17;24,4,,3,,,6
+27,Production Inventory Cost Analysis,EIND,373,6,,,3,,,6
+28,Regres & Multivar Analysis,EIND,457,24,,,3,,,6
+29,Prin of Operations Research II,EIND,464,24;25,,,3,,,6
+30,Technical Elective,ELEC,,,,,3,,,6
+31,Financial Econometrics,ECNS,461,24,,,3,,,7
+32,Engineering & Economic Financial Management II,EFIN,401,17,,,3,,,7
+33,Managerial Forecasting & Decision Analysis,EIND,468,24,,,3,,,7
+34,Professional Elective,ELEC,,,,,3,,,7
+35,Technical Elective,ELEC,,,,,3,,,7
+36,Financial Engineering Design Capstone,EFIN,499R,32,,,3,,,8
+37,Professional Electives,ELEC,,,,,6,,,8
+38,Technical Elective,ELEC,,,,,3,,,8
+39,University Core Elective,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

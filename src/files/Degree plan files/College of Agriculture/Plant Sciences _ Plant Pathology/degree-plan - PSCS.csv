@@ -1,0 +1,42 @@
+Curriculum,Plant Science - Crop Science Option,,,,,,,,,
+Degree Plan,Plant Science - Crop Science Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,1.1101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+2,Principles of Living Systems,BIOB,160,,,,4,,,1
+3,Introduction to General Chemistry ,CHMY,121IN,8,,,2,,,1
+4,Introduction to General Chemistry Lab,CHMY,122IN,,,3,1,,,1
+5,Introduction to Organic Chemistry and Biochemistry,CHMY,123,3,,,2,,,1
+6, Introduction to Organic and Biochemistry Lab,CHMY,124,,,5,1,,,1
+7,College Writing I,WRIT,101W,,,,3,,,1
+8,College Algebra,M,121Q,,,,3,,,1
+9,University Core and Electives,ELEC,,,,,8,,,1
+10,Economic Way of Thinking,ECNS,101IS,1,,,3,,,2
+11,Introduction to Entomology,BIOO,262IN,8,,,3,,,2
+12,Soils,ENSC,245IN,8,,,3,,,2
+13,Introduction to Plant Biology,BIOB,110CS,,,,3,,,2
+14,Prof Business Communication,BMGT,205,7;9,,,3,,,2
+15,Biometry,BIOB,318,8,,,3,,,2
+16,University Core and Electives,ELEC,,,,,6,,,2
+17,Field Crop Production,AGSC,341,12,,,3,,,3
+18,Plant Nutrition and Soil Fertility Management,AGSC,356,3;12,,,3,,,3
+19,Weed Ecology and Management,ENSC,443,8,,,3,,,3
+20,Concepts of Plant Pathology,BIOM,421,13,,,3,,,3
+21,General Genetics,BIOB,375,2,,,3,,,3
+22,Choose one ACTG course,ACTG,2xx,,,,3,,,3
+23,Choose one AGBE course,AGBE,3xx,,,,3,,,3
+24,Choose BMKT course,BMKT,,,,,3,,,3
+25,University Core and Electives,ELEC,,,,,6,,,3
+26,Cropping Systems and Sustainable Agriculture,AGSC,428,17,,,3,,,4
+27,Plant Physiology,BIOO,433,2;5,,,3,,,4
+28,Plant Breeding & Genetics,AGSC,441,,,,3,,,4
+29,Choose one AGED course,AGED,3xx,,,,2,,,4
+30,Choose one AGSC course,AGSC,4xx,,,,2,,,4
+31,Choose one ANSC course,ANSC,2xx,,,,2,,,4
+32,University Core and Electives,ELEC,,,,,9,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

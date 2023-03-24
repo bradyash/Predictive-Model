@@ -1,0 +1,48 @@
+Curriculum,Music Technology,,,,,,,,,
+Degree Plan,Music Technology,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,50.0901,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Aural Perception I,MUSI,140,,3,,1,,,1
+2,Aural Perception II,MUSI,141,1,4,,1,,,1
+3,Music Theory I,MUSI,105,,,,3,,,1
+4,Music Theory II,MUSI,106,3,,,3,,,1
+5,Keyboard Skills I,MUSI,135,,3,,1,,,1
+6,Keyboard Skills II,MUSI,136,5,4,,1,,,1
+7,Applied Music I,MUSI,195,,,13,1,,,1
+8,Applied Music I,MUSI,195,,,13,1,,,1
+9,Introduction to Digital Music,MUST,115,,,,3,,,1
+10,MIDI and Electro-Acoustic Comp,MUST,125,9,,,3,,,1
+11,University Core: Quantitative Reasoning (Q),M,Q,,,,3,,,1
+12,University Core and Electives,ELEC,,,,,9,,,1
+13,Ensemble,ELEC,,,,,1,,,1
+14,Applied Music II,MUSI,295,8,,19,1,,,2
+15,The Science of Sound,EELE,217,11,,,2,,,2
+16,Multimedia Audio Production,FILM,259,17,,,3,,,2
+17,Recording I,MUST,220,1;3;5;10,,,3,,,2
+18,Sound Design and Synthesis,MUST,341,2;6;17;4,,,3,,,2
+19,Ensemble,ELEC,,,,,1,,,2
+20,University Core and Electives,ELEC,,,,,15,,,2
+21,World Music,MUSI,307IA,,,,3,,,2
+22,Music History I,MUSI,301,4,,,3,,,3
+23,Acoustic Composition,MUSI,485,4,,,1,,,3
+24,Acoustic Composition,MUSI,485,4,,,1,,,3
+25,Orchestration for New Media,MUST,305,2;4;17;6,,,3,,,3
+26,Real-Time Computer Music,MUST,350,18,,,3,,,3
+27,Interdisciplinary Projects II,MUST,382,16,,,3,,,3
+28,Film Scoring,MUST,384,25,,,3,,,3
+29,Ensemble,ELEC,,,,,1,,,3
+30,University Core and Electives,ELEC,,,,,12,,,3
+31,Music History of 20th and 21st Centuries,MUSI,303,4;22,,,3,,,4
+32,Interdisciplinary Project I: Visual Music,MUST,380,18,,,3,,,4
+33,Internship (or Music Technology Elective),MUST,498,17,,,3,,,4
+34,Senior Recital/Capstone Pjt,MUST,499R,28,,,3,,,4
+35,"Computer Engineering, Electrical Engineering, Computer Science, Physics, or Business",ELEC,,,,,3,,,4
+36,University Core and Electives,ELEC,,,,,3,,,4
+37,Upper Division Electives,ELEC,,,,,6,,,4
+38,Electives,ELEC,,,,,4,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,47 @@
+Curriculum,Early Childhood Education and Child Services-Child Development Option,,,,,,,,,
+Degree Plan,Early Childhood Education and Child Services-Child Development Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,13.121,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Early Childhood Development,EDEC,160,,,,3,,,1
+2,First Year Seminar,US,101US,,,,3,,,1
+3,College Writing I,WRIT,101W,,,,3,,,1
+4,University Core and Electives,ELEC,,,,,6,,,1
+5,Choose one NASX course,ELEC,,,,,3,,,2
+6,Introduction to Sociology,SOCI,101IS,,,,3,,,2
+7,University Core Q/IN/IH/IA,CORE,Q/IN/IH/IA,,,,3,,,2
+8,ECE/CS Directed Electives,ELEC,,,,,6,,,2
+9,Introduction to Early Childhood Education,EDEC,108,,,,2,,,3
+10,Signing for Early Childhood Educators,EDEC,288,,,,3,,,3
+11,Relationships and Fam Systems,HDFS,263,,,,3,,,3
+12,Basic Human Nutrition,NUTR,221CS,,,,3,,,3
+13,University Core and Electives,ELEC,,,,,3,,,3
+14,Nutrition & Physical Activity in Early Childhood,EDEC,253,,,,3,,,4
+15,Administration of Early Childhood Programs,EDEC,260,9,,,3,,,4
+16,Managing Work and Family,HDFS,237,,,,3,,,4
+17,University Core and Electives,ELEC,,,,,6,,,4
+18,Play and Learning in Early Childhood,EDEC,350,,37,,3,,,5
+19,Exceptional Learners,EDSP,306,1,,,3,,,5
+20,Exceptional Learners Lab,EDSP,307,,19,,1,,,5
+21,Research Methods in HHD,HDFS,371,7,,,3,,,5
+22,Electives,ELEC,,,,,6,,,5
+23,Integrated Curriculum Early Childhood Education,EDEC,385,18,,24,3,,,6
+24,EC Internship,EDEC,498,,,,1,,,6
+25,Theories and Skills for the Human Services,HDFS,359,,,,3,,,6
+26,Parenting,HDFS,460,11,,,3,,,6
+27,Electives,ELEC,,,,,6,,,6
+28,Social and Emotional Development in the Young Child,EDEC,430,,,,3,,,7
+29,Student Teaching (?),EDEC,496,,,,4,,,7
+30,Assessment and Intervention,EDSP,458,19,,,4,,,7
+31,Program Planning and Administration in Family & Consumer Sciences,HDFS,455R,21,,,3,,,7
+32,Seminar/Workshop,HDFS,494,,,,1,,,7
+33,Literacy in the EC Classroom,EDEC,450,1,,,3,,,8
+34,EC Internship,EDEC,498,,,,3,,,8
+35,Reaching the Hurt Child,HDFS,459,6,,,3,,,8
+36,Electives,ELEC,,,,,5,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,Paraprofessional Experience in Early Childhood,,EDEC,271,,,3,,,5

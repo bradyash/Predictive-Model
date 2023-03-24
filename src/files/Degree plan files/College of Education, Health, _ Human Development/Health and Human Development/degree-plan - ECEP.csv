@@ -1,0 +1,49 @@
+Curriculum,Early Childhood Education: P3,,,,,,,,,
+Degree Plan,Early Childhood Education: P3,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Early Childhood Development,EDEC,160,,,,3,,,1
+2,Teaching and Learning,EDU,101US,,,,3,,,1
+3,Numbers & Operations for K-8 Teachers,M,132,,,,3,,,1
+4,College Writing I,WRIT,101W,,,,3,,,1
+5,Introduction to Native American Studies,NASX,105D,,,,3,,,1
+6,Educ Psych & Child Development,EDU,222IS,,,,3,,,2
+7,American History I,HSTA,101IH,,,,4,,,2
+8,Geometry & Measure K-8 Teachers,M,133Q,3,,,3,,,2
+9,Introduction to Sociology,SOCI,101IS,,,,3,,,2
+10,Approved IN Core,CORE,IN,,,,3,,,2
+11,Introduction to Early Childhood Education,EDEC,108,,,,2,,,3
+12,Signing for Early Childhood Educators,EDEC,288,,,,3,,,3
+13,Integrating Tech into Educ,EDU,370,6,,,3,,,3
+14,Relationships and Fam Systems,HDFS,263,,,,3,,,3
+15,Basic Human Nutrition,NUTR,221CS,,,,3,,,3
+16,Teaching Grammar Through Writing,EDU,263,,,,3,,,3
+17,Nutrition & Physical Activity in Early Childhood,EDEC,253,,,,3,,,4
+18,Arts & Lifelong Learning,EDU,204IA,,,,3,,,4
+19,Multicultural Education,EDU,211D,6,,,3,,,4
+20,STEM Electives,ELEC,,,,,3,,,4
+21,University Core and Electives,ELEC,,,,,3,,,4
+22,Play and Learning in Early Childhood,EDEC,350,,38,,3,,,5
+23,Exceptional Learners,EDSP,306,1,,,3,,,5
+24,"Assessmt, Curric, Instructn",EDU,382,6,,,3,,,5
+25,Research Methods in HHD,HDFS,371,8,,,3,,,5
+26,Electives,ELEC,,,,,3,,,5
+27,Integrated Curriculum Early Childhood Education,EDEC,385,22,39,,3,,,6
+28,Literacy in the EC Classroom,EDEC,450,1,,,3,,,6
+29,P-3 English Language Arts and Social Studies,EDEC,455,31,,,3,,,6
+30,Practicum I: K-8,EDP,301,8;24,,,3,,,6
+31,Emergent Literacy,EDU,330,6,,,3,,,6
+32,Social and Emotional Development in the Young Child,EDEC,430,,,,3,,,7
+33,P-3 STEAM,EDEC,453,,,,3,,,7
+34,Practicum II: K-8,EDP,302,30,,,3,,,7
+35,Assessment and Intervention,EDSP,458,23,,,4,,,7
+36,"Ltrcy Asmnt, Diagnos and Instr",EDU,438,24;31,,,3,,,7
+37,Student Teaching,EDU,495R,36;35;34;32;29;28;27;25,,,12,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+38,Paraprofessional Experience in Early Childhood,EDEC,271,,,,2,,,5
+39,EC Internship,EDEC,498,,,,3,,,6

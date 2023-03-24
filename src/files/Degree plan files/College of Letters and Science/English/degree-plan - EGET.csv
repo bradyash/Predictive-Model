@@ -1,0 +1,44 @@
+Curriculum,English - Teaching Option,,,,,,,,,
+Degree Plan,English - Teaching Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,23.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Knowledge and Community,CLS,101US,,,,3,,,1
+2,Into to Literary Studies,LIT,201,,,,3,,,1
+3,Indiv and Fam Dev: Lifespan,HDFS,101IS,,,,3,,,1
+4,College Writing I,WRIT,101W,,,,3,,,1
+5,University Course Elective,ELEC,,,,,3,,,1
+6,Educ Psych and Adolescent Dev,EDU,223IS,,,,3,,,2
+7,Introduction to English Education,ENGL,201,,,,3,,,2
+8,Lower Division Literature Elective,LIT,2xx,,,,3,,,2
+9,University Course Electives,ELEC,,,,,9,,,2
+10,Integrating Tech into Educ,EDU,370,6,,,3,,,3
+11,Secondary English Curriculum,ENGL,237,,,,3,,,3
+12,Structure and Function of Language,LING,238,,,,3,,,3
+13,College Writing II,WRIT,201,4,,,3,,,3
+14,Writing Elective,WRIT,3xx,,,,3,,,3
+15,Multicultural Education,EDU,211D,6,,,3,,,4
+16,Literature Elective,LIT,3xx,,,,6,,,4
+17,University Course Elective,ELEC,,,,,7,,,4
+18,Managing the Learning Environment for K-12/Secondary,EDU,347,6,,,2,,,5
+19,"Assessmt, Curric, Instructin",EDU,382,6,,,3,,,5
+20,Teaching Writing in Secondary School,ENGL,339,4,,,3,,,5
+21,Literary Criticism,LIT,300,2,,,3,,,5
+22,Writing Elective,ELEC,,,,,3,,,5
+23,Methods: 5-12 English,EDM,401,19,,,3,,,6
+24,Teaching Reading and Literature,ENGL,445,20,,,3,,,6
+25,Language and English Education,LING,338,,,,3,,,6
+26,Studies in Shakespeare,LIT,473RH,2,,,3,,,6
+27,University Course Elective,ELEC,,,,,3,,,6
+28,Practicum: 5-12/K-12,EDP,304,19,,,2,,,7
+29,Practicum Lab: 5-12/K-12,EDP,305,19,,,1,,,7
+30,Exceptional Learners,EDSP,306,6,,,3,,,7
+31,Issues in English Education,ENGL,461R,,,,3,,,7
+32,Literature Elective,LIT,4xx,,,,3,,,7
+33,Writing Elective,WRIT,4xx,,,,3,,,7
+34,Student Teaching,EDU,495R,,,,12,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

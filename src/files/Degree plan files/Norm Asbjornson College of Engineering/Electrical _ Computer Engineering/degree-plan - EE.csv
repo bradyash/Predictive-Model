@@ -1,0 +1,49 @@
+Curriculum,Electrical Engineering,,,,,,,,,
+Degree Plan,EE Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.1001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Knowledge and Community,CLS,101US,,,,3,,,1
+2,Calculus I,M,171Q,,,,4,,,1
+3,Physics I with Calculus,PHSX,220,,,,4,,,1
+4,Introduction to Electrical Fundamentals,EELE,101,,,,3,,,1
+5,College Writing I,WRIT,101W,,,,3,,,2
+6,Calculus II,M,172Q,2,,,4,,,2
+7,Physics II with Calculus,PHSX,222,2;3,6,,4,,,2
+8,Intro To Logic Circuits,EELE,261,,,,4,,,2
+9,University Core Elective,ELEC,,,,,3,,,3
+10,Introduction to Differential Equation,M,274,6,,,4,,,3
+11,Physics III,PHSX,224,6;7,,,4,,,3
+12,Circuits I for Engineering,EELE,201,4;6,7,,4,,,3
+13,Multivariable Calculus,M,273Q,6,,,4,,,4
+14,Applied Engineering Data Analysis,EGEN,350,6,,,2,,,4
+15,College Chemistry I,CHMY,141,,,,3,,,4
+16,College Chemistry I Lab,CHMY,142,,,15,1,,,4
+17,Circuits II for Engineering,EELE,203,10;12,,,4,,,4
+18,Programming with C I,CSCI,112,4,,,3,,,4
+19,Signals and Systems Analysis,EELE,308,13;17,,,4,,,5
+20,Electronics,EELE,317,17,,,4,,,5
+21,Microprocess HW and SW Systems,EELE,371,8,,,4,,,5
+22,Electromagnetic Theory I,EELE,334,7;13,,,3,,,5
+23,University Core Elective,ELEC,,,,,3,,,6
+24,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,6
+25,Introduction To Feedback Controls,EELE,321,17,,,3,,,6
+26,Energy Conversion Devices,EELE,355,17,,,4,,,6
+27,EE Professional Elective,ELEC,,,,,3,,,6
+28,University Core Elective,ELEC,,,,,3,,,7
+29,Electric Engineering Design I,EELE,488R,20;24,,,2,,,7
+30,EE Material Science,EELE,409,20,,,3,,,7
+31,Two EE Professional Electives,ELEC,,,,,6,,,7
+32,Non-EE Professional Elective,ELEC,,,,,3,,,7
+33,University Core Elective,ELEC,,,,,3,,,8
+34,Electrical Engr Design II,EELE,489R,29,,,3,,,8
+35,"Prof, Ethics & Engr Practices",EELE,487,,,,1,,,8
+36,Fundamentals of Engineering Exam,EGEN,488,,,,0,,,8
+37,Telecommunication Systems,EELE,445,19;20,,,4,,,8
+38,Non-EE professional elective,ELEC,,,,,3,,,8
+39,EE or Non-EE Professional Elective,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

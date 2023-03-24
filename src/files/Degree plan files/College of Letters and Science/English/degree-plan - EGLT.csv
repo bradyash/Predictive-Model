@@ -1,0 +1,39 @@
+Curriculum,English - Literature Option,,,,,,,,,
+Degree Plan,English - Literature Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,23.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Knowledge and Community,CLS,101US,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,CORE Q,CORE,Q,,,,3,,,1
+4,Into to Literary Studies,LIT,201,,,,3,,,1
+5,Mythologies,LIT,285D,,,,3,,,1
+6,CORE IA,CORE,IA,,,,3,,,2
+7,The Environmental Imagination,LIT,202CS,,,,3,,,2
+8,CORE IS,CORE,IS,,,,3,,,2
+9,CORE IN,CORE,IN,,,,3,,,2
+10,Introduction to Literature,LIT,110IH,,,,3,,,2
+11,Writing Elective,WRIT,2xx,,,,3,,,3
+12,Literature Elective,LIT,2xx,,,,3,,,3
+13,University Course Electives,ELEC,,,,,9,,,3
+14,National Literature Elective,LIT,3xx,,,,3,,,4
+15,Literature Elective,LIT,2xx,,,,3,,,4
+16,University Course Elective,ELEC,,,,,9,,,4
+17,Literary Criticism,LIT,300,4,,,3,,,5
+18,University Course Electives,ELEC,,,,,9,,,5
+19,Writing Elective,ELEC,,,,,3,,,5
+20,Literature Electives,LIT,3xx,,,,3,,,6
+21,Literature Electives,LIT,3xx,,,,3,,,6
+22,University Course Electives,ELEC,,,,,6,,,6
+23,National Literature Elective,ELEC,,,,,3,,,6
+24,Literature Elective,LIT,4xx,,,,3,,,7
+25,University Course Electives,ELEC,,,,,9,,,7
+26,National Literature Elective,LIT,3xx,,,,3,,,7
+27,Seminar: Research Issues,LIT,494RH,,,,3,,,8
+28,Literature Elective,LIT,4xx,,,,3,,,8
+29,University Course Electives,ELEC,,,,,9,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

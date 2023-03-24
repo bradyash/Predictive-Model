@@ -1,0 +1,46 @@
+Curriculum,"Microbiology - Microbiology Option, Pre-Veterinary Track",,,,,,,,,
+Degree Plan,"Microbiology - Microbiology Option, Pre-Veterinary Track",,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0503,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Careers in Microbiology,BIOM,101,,,,1,,,1
+2,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+3,College Chemistry I,CHMY,141,,,,3,,,1
+4,College Chemistry I Lab,CHMY,142,,,3,1,,,1
+5,University Core and Electives,ELEC,,,,,3,,,1
+6,Survey of Calculus,M,161Q,,,,4,,,1
+7,Introduction to Statistics,STAT,216Q,,,,3,,19,1
+8,Introduction to Animal Science,ANSC,100,,,,3,,,2
+9,Principles of Living Systems,BIOB,160,,,,4,,,2
+10,College Chemistry II,CHMY,143,3,,,3,,,2
+11,College Chemistry II Lab,CHMY,144,,,10,1,,,2
+12,University Core and Electives,ELEC,,,,,3,,14,2
+13,Cellular and Molecular Biology,BIOB,260,3;7,,,4,,,3
+14,Elements of Organic Chemistry,CHMY,211,10,,,4,,,3
+15,Elements of Organic Chemistry Lab,CHMY,212,11,,14,1,,,3
+16,University Core and Electives,ELEC,,,,,6,,15,3
+17,Anatomy and Physiology of Domestic Animals - Lecture,ANSC,265,9,,18,3,,,4
+18,Anatomy and Physiology of Domestic Animals - Lab,ANSC,266,9,,,1,,,4
+19,Biochemistry,BCH,380,9;14,,,4,,,4
+20,Biochemistry lab,BCH,381,,,19,1,,,4
+21,General Microbiology,BIOM,360,9,,,5,,14,4
+22,General Parasitology,BIOM,427,,,,4,,,5
+23,College Physics I,PHSX,205,,,,4,,,5
+24,Restricted elective and University Core,ELEC,,,,,3,,,5
+25,Project?,IMID,475R,,,,2,,13,5
+26,College Physics II,PHSX,207,23,,,4,,,6
+27,Principles of Animal Breeding and Genetics,ANSC,322,7;8;9,,,3,,,6
+28,Restricted elective and University Core,ELEC,,,,,6,,13,6
+29,Seminar/Workshop,BIOM,494,21,,,1,,,7
+30,Microbial Physiology,BIOM,450,19;21,,,3,,,7
+31,"Microbial Diversity, Ecology, and Evolution",BIOM,415,19;21,,,3,,,7
+32,Choose one BIOM course,BIOM,4xx,,,,3,,,7
+33,Choose one BIOM course,BIOM,4xx,,,,3,,13,7
+34,Choose one BIOM course,BIOM,4xx,,,,3,,,8
+35,Choose one BIOM course,BIOM,4xx,,,,3,,,8
+36,Upper Division Science Electives,ELEC,,,,,9,,15,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,35 @@
+Curriculum,Art - Liberal Arts Studio Option,,,,,,,,,
+Degree Plan,Art - Liberal Arts Studio Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,50.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Visual Language - Drawing,ARTZ,105RA,,,,3,,,1
+2,Visual Language: Comprehensive Foundation,ARTZ,109RA,,,,3,,,1
+3,Introduction to Adobe,MART,122,,,,2,,,1
+4,Art of World Civilization I,ARTH,200IA,,,,4,,,1
+5,University Core and Electives,ELEC,,,,,3,,,1
+6,Visual Language: Ideation and Creativity,ARTZ,110RA,,,,3,,,2
+7,Art of World Civilization II,ARTH,201IA,,,,4,,,2
+8,Drawing I,ARTZ,211RA,1;2,,,4,,,2
+9,University Core and Electives,ELEC,,,,,4,,,2
+10,Professional Practices: Careers in Art,ARTZ,210,1;2;6,,,3,,,3
+11,Choose two ARTZ courses,ARTZ,2xx,2,,,8,,,3
+12,Choose one ARTH course,ARTH,4xx,4,,,3,,,3
+13,University Core and Electives,ELEC,,,,,1,,,3
+14,Choose two ARTZ courses,ARTZ,2xx,2,,,8,,,4
+15,University Core and Electives,ELEC,,,,,6,,,4
+16,Choose one ARTZ course,ARTZ,2xx,,,,4,,,5
+17,Intermediate ARTZ elective,ARTZ,3xx,11,,,5,,,5
+18,University Core and Electives,ELEC,,,,,6,,,5
+19,Choose one ARTH course,ARTH,4xx,4;7,,,3,,,6
+20,University Core and Electives,ELEC,,,,,12,,,6
+21,Undergraduate Seminar,ARTZ,494,,,,3,,,7
+22,Intermediate ARTZ elective,ARTZ,3xx,14,,,5,,,7
+23,University Core and Electives,ELEC,,,,,6,,,7
+24,Intermediate ARTZ elective,ARTZ,3xx,14,,,5,,,8
+25,University Core and Electives,ELEC,,,,,10,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

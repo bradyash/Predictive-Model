@@ -173,7 +173,7 @@ public class gui {
                     File f = fc.getSelectedFile();
                     dictionary.importDictionary(f);
                     appendText("Dictionary Created!");
-                    setMajors(ReadEnrolled.readCsv(f, dictionary));
+                    setMajors(ReadEnrolled.readCsv(dictionary));
                     appendText("Majors Filed!");
                     appendText("Select the directory containing the degree plans!");
                     appendText("");
@@ -188,7 +188,7 @@ public class gui {
                 appendText("File directory accepted!");
 
                 appendText("Collecting degree plans...");
-                ArrayList<File> allFiles = CollectFiles.collectFiles(f.getAbsolutePath());
+                ArrayList<File> allFiles = CollectFiles.collectFiles(f);
 
                 appendText("Reading degree plans...");
 

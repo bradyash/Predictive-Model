@@ -1,0 +1,48 @@
+Curriculum,Computer Engineering,,,,,,,,,
+Degree Plan,ComputerE Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,14.0901,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I,M,171Q,,,,4,,,1
+2,Introduction to Electrical Fundamentals,EELE,101,,,,3,,,1
+3,Knowledge and Community,CLS,101US,,,,3,,,1
+4,Joy and Beauty of Data,CSCI,127,,,,4,,,1
+5,Calculus II,M,172Q,1,,,4,,,2
+6,Physics I with Calculus,PHSX,220,,,,4,,,2
+7,College Writing I,WRIT,101W,,,,3,,,2
+8,Basic Data Structures and Algorithms,CSCI,132,4,,,4,,,2
+9,Introduction to Differential Equation,M,274,5,,,4,,,3
+10,Physics II with Calculus,PHSX,222,1;6,5,,4,,,3
+11,Circuits I for Engineering,EELE,201,2;5,10,,4,,,3
+12,Intro To Logic Circuits,EELE,261,,,,4,,,3
+13,Applied Engineering Data Analysis,EGEN,350,5,,,2,,,4
+14,Multivariable Calculus,M,273Q,5,,,4,,,4
+15,Circuits II for Engineering,EELE,203,9;11,,,4,,,4
+16,Logic Design,EELE,367,12,,,4,,,4
+17,Programming with C I,CSCI,112,4,,,3,,,4
+18,University Core Elective,ELEC,,,,,3,,,5
+19,Signals and Systems Analysis,EELE,308,14;15,,,4,,,5
+20,Electronics,EELE,317,15,,,4,,,5
+21,Microprocess HW and SW Systems,EELE,371,12,,,4,,,5
+22,Discrete Structures,CSCI,246,1,8,,3,,,5
+23,University Core Elective,ELEC,,,,,3,,,6
+24,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,6
+25,Introduction To Feedback Controls,EELE,321,15,,,3,,,6
+26,Microcontroller Applications,EELE,465,21,,,4,,,6
+27,CSCI Elective,ELEC,,,,,3,,,6
+28,University Core Elective,ELEC,,,,,3,,,7
+29,Electric Engineering Design I,EELE,488R,20;24,,,2,,,7
+30,SoC FPGAs I : Hardware-Software Codesign,EELE,467,16;17,,,4,,,7
+31,Electromagnetic Theory I,EELE,334,10;14,,,3,,,7
+32,EELE/CSCI Elective,ELEC,,,,,3,,,7
+33,University Core Elective,ELEC,,,,,3,,,8
+34,Electrical Engr Design II,EELE,489R,29,,,3,,,8
+35,"Prof, Ethics & Engr Practices",EELE,487,,,,1,,,8
+36,Fundamentals of Engineering Exam,EGEN,488,,,,0,,,8
+37,SoC FPGAs II: Application Specific Computing,EELE,468,30,,,4,,,8
+38,EELE/CSCI Elective,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,35 @@
+Curriculum,Philosophy - Philosophy and Religion Option,,,,,,,,,
+Degree Plan,Philosophy - Philosophy and Religion Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Knowledge and Community,CLS,101US,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,University Core and Electives,ELEC,,,,,24,,,1
+4,Logic,PHL,236Q,,,,3,,,2
+5,One Year Modern Language*,ELEC,,,,,8,,,2
+6,"Hindu Traditions
+or RLST 203D - Buddhist Traditions",RLST,202D,,,,2,,,2
+7,Intro to the Hebrew Bible,RLST,204IH,,,,2,,,2
+8,University Core and Electives,ELEC,,,,,13,,,2
+9,Hist of Philo:Ancient/Medieval,PHL,361RH,4,,,3,,,3
+10,History of Philosophy: Modern,PHL,362,,,,3,,,3
+11,Philosophy of Religion,PHL,370,4,,,3,,,3
+12,Choose one PHL course,PHL,3xx,,,,3,,,3
+13,Choose one RLST course,RLST,3xx,,,,3,,,3
+14,University Core and Electives,ELEC,,,,,18,,,3
+15,Seminar,PHL,494,,,,3,,,4
+16,Seminar,PHL,494,,,,3,,,4
+17,Choose one metaphysics/epistemology course,PHL,3xx,,,,3,,,4
+18,Language and the World,PHL,308,4;24,,,3,,,4
+19,Philosophy of Science,PHL,345,4,,,3,,,4
+20,Phil of Mind and Consciousness,PHL,365,4,,,3,,,4
+21,Philosophy of Religion,PHL,370,4,,,3,,,4
+22,Choose one Religious Studies courses,RLST,3xx,,,,3,,,4
+23,University Core and Electives,ELEC,,,,,18,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,Intro Phil:Reason and Reality,PHL,101IH,,,,3,,,3

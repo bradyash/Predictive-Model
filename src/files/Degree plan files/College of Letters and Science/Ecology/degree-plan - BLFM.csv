@@ -1,0 +1,41 @@
+Curriculum,Biological Sciences - Fish and Wildlife Ecology and Management,,,,,,,,,
+Degree Plan,Biological Sciences - Fish and Wildlife Ecology and Management,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Intro to Fish and Wildlife,WILD,201,,,,1,,,1
+2,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+3,Introduction to General Chemistry,CHMY,121IN,,,,3,,,1
+4,Introduction to General Chemistry Lab, CHMY,122IN,,,3,1,,,1
+5,Environmental Science and Society,BIOE,103CS,,,,3,,,1
+6,University Core and Electives,ELEC,,,,,3,,,1
+7,Principles of Living Systems,BIOB,160,,,,4,,,2
+8,University Core and Electives,ELEC,,,,,9,,,2
+9,Survey of Calculus,M,161Q,,,,4,,,3
+10,Intro to GIS Science & Cartog,GPHY,284,,,,3,,,3
+11,University Core and Electives,ELEC,,,,,9,,,3
+12,Water Resources (Aquatic),ENSC,272CS,,,,3,,,4
+13,Introduction to Organic Chemistry and Biochemistry,CHMY,123,3,,,3,,,4
+14,Introduction to Organic and Biochemistry Lab,CHMY,124,3;4,,13,1,,,4
+15,College Writing II,WRIT,201,,,,3,,,4
+16,University Core and Electives,ELEC,,,,,6,,,4
+17,Comparative Vertebrate Anatomy,BIOO,310,2,,,3,,,5
+18,Biometry,BIOB,318,9,,,3,,,5
+19,General Ecology,BIOE,370,2,,,3,,,5
+20,University Core and Electives,ELEC,,,,,6,,,5
+21,Princ of Fish & Wildlife Mgmt,WILD,301,2;7,,,3,,,6
+22,General Genetics,BIOB,375,7,,,3,,,6
+23,University Core and Electives,ELEC,,,,,9,,,6
+24,Rocky Mountain Vegetation,BIOE,408,19,,,3,,,7
+25,Plant Ecology,BIOE,455,19,,,3,,,7
+26,Upper Division Directed Electives,ELEC,,,,,8,,,7
+27,Evolution,BIOB,420,22,,,3,,,8
+28,Fish and Wildlife Capstone,WILD,401RN,18;19;21,,,4,,,8
+29,Mammalogy,BIOO,475,17,,,3,,,8
+30,Ornithology,BIOO,470,17,,,3,,,8
+31,Upper Division Directed Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

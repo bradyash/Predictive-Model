@@ -1,0 +1,51 @@
+Curriculum,Environmental Horticulture - Landscape Design Option (Planning) ,,,,,,,,,
+Degree Plan,Environmental Horticulture - Landscape Design Option (Planning) ,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,1.1101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Design Fundamentals I,ARCH,151RA,,,,4,,,1
+2,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+3,Introduction to General Chemistry,CHMY,121IN,,,3,2,,,1
+4,Introduction to General Chemistry Lab,CHMY,122IN,,,,1,,,1
+5,College Algebra,M,121Q,,,,3,,,1
+6,Introduction to Plant Biology,BIOB,110CS,,,,3,,,1
+7,Introduction to Horticulture,HORT,105,,,,3,,,1
+8,Landscape Dsgn/Hist/Theory,HORT,131,,,,3,,,1
+9,College Writing I,WRIT,101W,,,,3,,,1
+10,Introduction to Landscape Architecture,LARC,120,,,,3,,,1
+11,University Core and Electives,ELEC,,,,,3,,,2
+12,Soils,ENSC,245IN,5,,,3,,,2
+13,Sustainable Landscape Studio,HORT,201,,,,3,,,2
+14,Woody Ornamentals,HORT,231,,,,3,,,2
+15,Sustainable Landscape Studio II,LARC,202,,18,13;17,3,,,2
+16,Herbaceous Ornamentals,HORT,232,2,,,3,,,2
+17,Landscape Graphics I,HORT,225,,,,3,,,2
+18,Landscape Graphics II,LARC,226,19,17,,3,,,2
+19,Introduction to Drafting and Design,DDSN,131,,,,3,,,2
+20,Communicating Agriculture,AGED,312R,,,,3,,,2
+21,University Core & Electives,ELEC,,,,,3,,,2
+22,Topics in Horticulture,HORT,310,2;5;7,,,3,,,3
+23,Planting Design,HORT,331,,,,3,,,3
+24,Site Development,LARC,335,7,,23,4,,,3
+25,Landscape Construction,LARC,336,7,24,23,3,,,3
+26,Site Design Studio I,LARC,340,23,,,4,,,3
+27,Management and Organization,BMGT,335,,,,3,,,3
+28,Special Topics,BMKT,491,,,,4,,,3
+29,University Core and Electives,ELEC,,,,,9,,,3
+30,Site Design Studio ll,LARC,432,23,,24;25,4,,,4
+31,Urban Planning and Design,LARC,440,23,,,4,,,4
+32,Landscape Planning,LARC,435,23,24;25,,4,,,4
+33,Plant Propagation,HORT,245,2;3,,,3,,,4
+34,Comm Plant Production,HORT,343,6,,,3,,,4
+35,Human Geography (GIS/GPS),GPHY,121D,,,,3,,,4
+36,Urban Geography,GPHY,321,35,,,3,,,4
+37,Geographical Planning,GPHY,365,,,,3,,,4
+38,Biogeography,GPHY,411,35,,,3,,,4
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

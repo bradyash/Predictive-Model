@@ -1,0 +1,48 @@
+Curriculum,Chemistry - Biochemistry Option: Pre-Medical Track,,,,,,,,,
+Degree Plan,Chemistry - Biochemistry Option: Pre-Medical Track,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,40.0501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Seminar/Workshop1,BCH,194,,,,1,,,1
+2,Integrated Physiology I,BIOH,185,,3,,4,,,1
+3,College Chemistry I,CHMY,141,,,,3,,,1
+4,College Chemistry I Lab,CHMY,142,,,3,1,,,1
+5,Introduction to Statistics,STAT,216Q,,,,3,,,1
+6,University Core,CORE,,,,,3,,,1
+7,Cellular and Molecular Biology,BIOB,260,3;5,,,4,,,2
+8,College Chemistry II,CHMY,143,3,,,3,,,2
+9,College Chemistry II Lab,CHMY,144,,,8,1,,,2
+10,Survey of Calculus,M,161Q,,,,4,,,2
+11,University Core,CORE,,,,,3,,,2
+12,Organic Chemistry I,CHMY,321,8,,,3,,,3
+13,Organic Chemistry I Lab,CHMY,322,9,,12,1,,,3
+14,College Physics I,PHSX,205,,,,4,,,3
+15,Biological Science Elective,ELEC,,,,,3,,,3
+16,University Core,CORE,,,,,3,,,3
+17,Seminar/Workshop,BCH,294,1,,,1,,,4
+18,Fundamental Analytical Chem,CHMY,311,9,,,4,,,4
+19,Organic Chemistry II,CHMY,323,12,,,3,,,4
+20,Organic Chemistry II Lab,CHMY,324,13,,19,1,,,4
+21,College Physics II,PHSX,207,14,,,4,,,4
+22,Biological Science Elective,ELEC,,,,,3,,,4
+23,Seminar/Workshop,BCH,394,17,,,1,,,5
+24,Biochemistry of Macromolecules,BCH,441,7;19,,,3,,,5
+25,Undergraduate Research,BCH,490R,,,,3,,,5
+26,Elements of Physical Chemistry,CHMY,361,10;19;21,,,4,,,5
+27,Elements of Physical Chemistry Lab,CHMY,362,,,26,1,,,5
+28,Biological Science Elective,ELEC,,,,,3,,,5
+29,Metabolic Regulation,BCH,442,7;19,,,3,,,6
+30,Biochemistry & Molecular Biology Methods,BCH,444R,24,,,3,,,6
+31,Undergraduate Research,BCH,490R,,,,3,,,6
+32,Biological Science Elective,ELEC,,,,,3,,,6
+33,University Electives,ELEC,,,,,3,,,6
+34,Biological Science Elective,ELEC,,,,,3,,,7
+35,University Core/Electives,ELEC,,,,,12,,,7
+36,Seminar/Workshop,BCH,494,23,,,1,,,8
+37,Biological Science Elective,ELEC,,,,,3,,,8
+38,University Core/Electives,ELEC,,,,,11,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

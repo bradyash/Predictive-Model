@@ -1,0 +1,41 @@
+Curriculum,English - Writing Option,,,,,,,,,
+Degree Plan,English - Writing Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,23.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Knowledge and Community,CLS,101US,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,Core Q,CORE,Q,,,,3,,,1
+4,Into to Literary Studies,LIT,201,,,,3,,,1
+5,Mythologies,LIT,285D,,,,3,,,1
+6,Core IA,CORE,IA,,,,3,,,2
+7,The Environmental Imagination (Or any Core CS Elective),LIT,202CS,,,,3,,,2
+8,Core IS,CORE,IS,,,,3,,,2
+9,Core IN,CORE,IN,,,,3,,,2
+10,Intro to Writing Studies,WRIT,205,2,,,3,,,2
+11,Introduction to Creative Writing,CRWR,240RA,2,,,3,,,3
+12,Writing Elective,WRIT,2xx,,,,3,,,3
+13,Literature Elective,LIT,2xx,,,,3,,,3
+14,University Course Electives,ELEC,,,,,6,,,3
+15,Intro to Language/Linguistics,LING,210IH,,,,3,,,4
+16,Writing Elective,WRIT,3xx,,,,3,,,4
+17,University Course Electives,ELEC,,,,,9,,,4
+18,Advanced Writing,WRIT,326,2,,,3,,,5
+19,Writing Elective,WRIT,3xx,,,,3,,,5
+20,University Course Electives,ELEC,,,,,9,,,5
+21,Rhetoric and Composition,ENGL,450,,,,3,,,6
+22,Writing Elective,WRIT,4xx,,,,3,,,6
+23,Literature Elective,LIT,3xx,,,,3,,,6
+24,University Course Electives,ELEC,,,,,6,,,6
+25,Digital Rhetorics and Multimodal Writing,WRIT,371,,,,3,,,7
+26,Internship,WRIT,498,,,,3,,,7
+27,Literature Elective,LIT,4xx,,,,3,,,7
+28,University Course Electives,ELEC,,,,,6,,,7
+29,Public Rhetorics and Writing,WRIT,376,2,,,3,,,8
+30,Seminar: Writing Research and Publications,WRIT,494RH,,,,3,,,8
+31,University Course Electives,ELEC,,,,,9,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,32 @@
+Curriculum,History - Japan Studies Option,,,,,,,,,
+Degree Plan,History - Japan Studies Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Knowledge and Community,CLS,101US,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,Math Core,CORE,Q,,,,3,,,1
+4,Reinventing Japan,HSTR,145D,,,,4,,,1
+5,Elementary Japanese I,JPNS,101,,,,4,,,1
+6,Elementary Japanese II,JPNS,102D,5,,,4,,,1
+7,University Core and Electives,ELEC,,,,,9,,,1
+8,Intermediate Japanese I,JPNS,201D,6,,,4,,,2
+9,Intermediate Japanese II,JPNS,202D,8,,,4,,,2
+10,Contemporary Japan,ANTY,242D,,,,3,,,2
+11,History of Asian Art and Architecture,ARTH,360,,,,3,,,2
+12,University Core and Electives,ELEC,,,,,15,,,2
+13,Japanese Adv Conversations,JPNS,305,9,,,3,,,3
+14,Choose one ANTY course,ANTY,3xx,,,,3,,,3
+15,Choose one HSTR course,HSTR,3xx,,,,3,,,3
+16,Choose one JPNS course,JPNS,3xx,,,,3,,,3
+17,Choose one NASX course,NASX,4xx,,,,3,,,3
+18,University Core and Electives,ELEC,,,,,18,,,3
+19,Undergraduate Research and Instruction,ANTY,490R,,,,3,,,4
+20,Undergraduate Research,HSTR,490R,,,,6,,,4
+21,Sem: Japanese Lit and Culture,JPNS,450R,,,,3,,,4
+22,University Core and Electives,ELEC,,,,,15,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,43 @@
+Curriculum,Liberal Studies - Quaternity Option,,,,,,,,,
+Degree Plan,Liberal Studies - Quaternity Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,24.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Interdisciplinary Ways of Knowing,LS,101US,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,Modern Language,,,,,,3,,,1
+4,University Core,CORE,,,,,3,,,1
+5,Electives,ELEC,,,,,6,,,1
+6,Modern Language,,,,,,3,,,2
+7,University Core,CORE,,,,,9,,,2
+8,Electives,ELEC,,,,,2,,,2
+9,Humanities,,,,,,3,,,3
+10,Natural Sciences,,,,,,3,,,3
+11,Social Science,,,,,,3,,,3
+12,University Core,CORE,,,,,6,,,3
+13,Fine Arts,,,,,,3,,,4
+14,Humanities,,,,,,3,,,4
+15,Natural Sciences,,,,,,3,,,4
+16,University Core,CORE,,,,,6,,,4
+17,Integrative Seminar,LS,301,1,,,1,,,5
+18,Fine Arts,,,,,,3,,,5
+19,Humanities,,,,,,3,,,5
+20,Natural Sciences,,,,,,3,,,5
+21,Social Sciences,,,,,,6,,,5
+22,Fine Arts,,,,,,6,,,6
+23,Humanities,,,,,,3,,,6
+24,Natural Sciences,,,,,,3,,,6
+25,Social Sciences,,,,,,3,,,6
+26,Integrative Seminar,LS,301,1,,,1,,,7
+27,Fine Arts,,,,,,3,,,7
+28,Humanities,,,,,,3,,,7
+29,Natural Sciences,,,,,,3,,,7
+30,Social Sciencs,,,,,,3,,,7
+31,"Undergraduate Research1 - 6 credits, but must take 4 for capstone",LS,490R,,,,4,,,8
+32,Integrative Seminar,LS,301,1,,,1,,,8
+33,Electives,ELEC,,,,,9,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

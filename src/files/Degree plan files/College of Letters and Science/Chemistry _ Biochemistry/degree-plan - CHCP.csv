@@ -1,0 +1,53 @@
+Curriculum,Chemistry - Professional Option,,,,,,,,,
+Degree Plan,Chemistry - Professional Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,40.0501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,College Chemistry I,CHMY,141,,,,3,,,1
+2,College Chemistry I LAB,CHMY,142,,,1,1,,,1
+3,Seminar/Workshop,CHMY,194,,,,1,,,1
+4,Calculus I,M,171Q,,,,4,,,1
+5,University Core and Electives,ELEC,,,,,6,,,1
+6,College Chemistry II,CHMY,143,1,,,3,,,2
+7,College Chemistry II LAB,CHMY,144,,,6,1,,,2
+8,Seminar/Workshop,CHMY,294,3,,,1,,,2
+9,Calculus II,M,172Q,4,,,4,,,2
+10,Physics I with CalculuS,PHSX,220,,,,4,,,2
+11,University Core and Electives,ELEC,,,,,3,,,2
+12,Organic Chemistry I,CHMY,321,6,,,3,,,3
+13,Organic Chemistry I lab,CHMY,322,6,,12,1,,,3
+14,Multivariable Calculus,M,273Q,,,,4,,,3
+15,Physics II with Calculus,PHSX,222,4;10,9,,4,,,3
+16,University Core and Electives,ELEC,,,,,3,,,3
+17,Principles of Living Systems,BIOB,160,,,,4,,,4
+18,Fundamental Analytical Chem,CHMY,311,,6;7,,4,,,4
+19,Organic Chemistry II,CHMY,323,12,,,4,,,4
+20,Organic Chemistry II lab,CHMY,324,13,,19,1,,,4
+21,University Core and Electives,ELEC,,,,,3,,,4
+22,Physical Chemistry-Quantum Chemistry and Spectroscopy I,CHMY,371,6;15,14,,3,,,5
+23,Physical Chemistry Laboratory I,CHMY,372,,22,,1,,,5
+24,Seminar/Workshop,CHMY,394,8,,,1,,,5
+25,Synthetic Chemistry,CHMY,417,19,,,3,,,5
+26,Undergraduate Research,CHMY,490R,,,,3,,,5
+27,University and Core Electives,ELEC,,,,,3,,,5
+28,Physical Chemistry - Kinetics and Thermodynamics,CHMY,373,,,,3,,,6
+29,Physical Chemistry Lab II,CHMY,374,22,28,,2,,,6
+30,Advanced Instrument Analysis,CHMY,421,18;22,,,3,,,6
+31,Undergraduate Research,CHMY,490R,,,,3,,,6
+32,University Core and Electives,ELEC,,,,,4,,,6
+33,Biochemistry of Macromolecules,BCH,441,17;19,,,3,,,7
+34,Advanced Inorganic Chemistry,CHMY,401,,,,3,,,7
+35,Biochemistry Lab,BCH,381,,,43,1,,,7
+36,Physical Science Electives4,ELEC,,,,,6,,,7
+37,University Core and Electives,ELEC,,,,,3,,,7
+38,Advanced Instrument Analysis1,CHMY,421,18;22,,,3,,,8
+39,Seminar/Workshop,CHMY,494,,24,,1,,,8
+40,Senior Thesis/Capstone3,CHMY,499,26,,,1,,,8
+41,Physical Science Electives4,ELEC,,,,,3,,,8
+42,University Core and Electives,ELEC,,,,,7,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+43,Biochemistry,BCH,380,,,,3,,,7

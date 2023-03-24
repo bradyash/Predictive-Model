@@ -23,6 +23,10 @@ public class Dictionary {
         return false;
     }
 
+    public HashMap<String, ArrayList<String>> getDictionary() {
+        return dictionary;
+    }
+
     public String getDictItem(String s) {
         ArrayList<String> name = dictionary.get(s);
         if (name == null) {
@@ -59,7 +63,6 @@ public class Dictionary {
             ArrayList<String> nameNumber = new ArrayList<>();
             nameNumber.add(split[1]);
             nameNumber.add(split[2]);
-            System.out.println(split[0] + " " + nameNumber.get(0) + " " + nameNumber.get(1));
             dictionary.put(split[0],nameNumber);
             if ("WHEM".equals(split[0])) {
                 break;

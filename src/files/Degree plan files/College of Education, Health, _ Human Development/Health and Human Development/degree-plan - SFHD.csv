@@ -1,0 +1,49 @@
+Curriculum,Sustainable Food and Bioenergy Systems - Sustainable Food Systems Option,,,,,,,,,
+Degree Plan,Sustainable Food and Bioenergy Systems - Sustainable Food Systems Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,30.3301,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Economic Way of Thinking,ECNS,101IS,,,,3,,,1
+2,College Algebra,M,121Q,,,,3,,,1
+3,Introduction to Sociology,SOCI,101IS,,,,3,,,1
+4,College Writing I,WRIT,101W,,,,3,,,1
+5,Any US Core,,US,,,,3,,,1
+6,Introduction to Plant Biology,BIOB,110CS,,,,3,,,2
+7,Introduction to General Chemistry,CHMY,121IN,,,,3,,,2
+8,Introduction to General Chemistry Lab,CHMY,122IN,,,7,1,,,2
+9,Introduction to Sustainable Food and Bioenergy Systems,SFBS,146,,,,3,,,2
+10,Practicum: Towne's Harvest,SFBS,296,9,,,3,,,2
+11,University Core,CORE,,,,,3,,,2
+12,Principles of Financial Acct,ACTG,201,2,,,3,,,3
+13,Energy and Sustainability,ECHM,205CS,,,,3,,,3
+14,Soils,ENSC,245IN,2,,,3,,,3
+15,Managing Work and Family,HDFS,237,,,,3,,,3
+16,Basic Human Nutrition,NUTR,221CS,,,,3,,,3
+17,Unseen Universe: Microbes,BIOM,103IN,,,,3,,,4
+18,Food Fundamentals,NUTR,226,16,,,3,,,4
+19,Food Fundamentals Lab,NUTR,227,16,,,2,,,4
+20,Introduction to Statistics,STAT,216Q,,,,3,,,4
+21,University Core,CORE,,,,,3,,,4
+22,Food Service System Management,NUTR,322,18;19,,,3,,,5
+23,Nutrition and Society,NUTR,351,16,,,3,,,5
+24,Ethnobotany,SFBS,327,10,,,3,,,5
+25,Directed Elective,ELEC,,,,,3,,,5
+26,University Core,ELEC,,,,,3,,,5
+27,Field Crop Production,AGSC,341,14,,,3,,,6
+28,Livestock in Sustain Systems,ANSC,222,,,,3,,,6
+29,Nutrition in the Life Cycle,NUTR,321,16,,,3,,,6
+30,Pract: Quant Foods Prod & Mgmt,NUTR,395,22,,,3,,,6
+31,Upper Division Directed Elective,ELEC,,,,,3,,,6
+32,Small Business and Entrepreneurship in Food and Health,SFBS,429,1,,,3,,,7
+33,Senior Thesis/Capstone,SFBS,499,9;10,,,3,,,7
+34,Upper Division Directed Elective,ELEC,,,,,9,,,7
+35,Sustainable Food Systems,SFBS,451R,16,,,3,,,8
+36,"Food System Resilience, Vulnerability and Transformation",SFBS,466,9;10;16,,,3,,,8
+37,Internship,SFBS,498,,,,3,,,8
+38,Electives,ELEC,,,,,3,,,8
+39,Upper Division Directed Elective,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

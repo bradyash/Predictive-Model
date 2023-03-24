@@ -1,0 +1,44 @@
+Curriculum,Music,,,,,,,,,
+Degree Plan,Music,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,50.0901,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Aural Perception I,MUSI,140,,3,,1,,,1
+2,Aural Perception II,MUSI,141,1,4,,1,,,1
+3,Music Theory I,MUSI,105,,,,3,,,1
+4,Music Theory II,MUSI,106,3,,,3,,,1
+5,Keyboard Skills I,MUSI,135,,3,,1,,,1
+6,Keyboard Skills II,MUSI,136,5,4,,1,,,1
+7,Applied Music I,MUSI,195,,,9,1,,,1
+8,Applied Music I,MUSI,195,,,9,1,,,1
+9,Ensemble,ELEC,,,,,2,,,1
+10,University Core and Electives,ELEC,,,,,16,,,1
+11,Aural Perception III,MUSI,240,2,,,1,,,2
+12,Aural Perception IV,MUSI,241,11,14,,1,,,2
+13,Music Theory III,MUSI,205,4,,,3,,,2
+14,Music Theory IV,MUSI,206,13,,,3,,,2
+15,Choose one MUSI course,MUSI,2xx,,,,1,,,2
+16,Choose one MUSI course,MUSI,2xx,,,,1,,,2
+17,Applied Music II,MUSI,295,7,,20,1,,,2
+18,Applied Music II,MUSI,295,7,,20,1,,,2
+19,World Music,MUSI,307IA,,,,3,,,2
+20,Ensemble,ELEC,,,,,2,,,2
+21,University Core and Electives,ELEC,,,,,13,,,2
+22,Music History I,MUSI,301,4,,,3,,,3
+23,Music History of 20th and 21st Centuries,MUSI,303,4;22,,,3,,,3
+24,Applied Music III,MUSI,395,17,,26,1,,,3
+25,Applied Music III,MUSI,395,17,,26,1,,,3
+26,Ensemble,ELEC,,,,,2,,,3
+27,Music Electives,ELEC,,,,,3,,,3
+28,University Core and Electives,ELEC,,,,,17,,,3
+29,Senior Capstone Project,MUSI,499R,,,,3,,,4
+30,Applied Music III,MUSI,395,17,,32,1,,,4
+31,Applied Music IV,MUSI,495,30,,32,1,,,4
+32,Ensemble,ELEC,,,,,2,,,4
+33,Music Electives,ELEC,,,,,5,,,4
+34,University Core and Electives,ELEC,,,,,18,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

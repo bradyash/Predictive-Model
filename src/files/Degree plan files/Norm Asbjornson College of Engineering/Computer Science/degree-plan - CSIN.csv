@@ -1,0 +1,47 @@
+Curriculum,Computer Science - Interdisciplinary Option,,,,,,,,,
+Degree Plan,CS InterD Option Calc-ready,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Calculus I,M,171Q,,,,4,,,1
+2,Joy and Beauty of Data,CSCI,127,,,,4,,,1
+3,College Writing I,WRIT,101W,,,,3,,,1
+4,University Core and Electives,ELEC,,,,,3,,,1
+5,Basic Data Structures and Algorithms,CSCI,132,2,,,4,,,2
+6,Calculus II,M,172Q,1,,,4,,,2
+7,University Seminar Core,,US,,,,3,,,2
+8,University Core and Electives,ELEC,,,,,4,,,2
+9,Social & Ethical Issues in Computer Science,CSCI,215CS,3;7,,,3,,,3
+10,Discrete Structures,CSCI,246,1,5,,3,,,3
+11,Science Electives,ELEC,,,,,3,,,3
+12,University Core,CORE,,,,,3,,,3
+13,Intermediate Tech Writing,WRIT,221,3,,,3,,,3
+14,Programming with C I,CSCI,112,2,,,3,,,4
+15,Data Structures and Algorithms,CSCI,232,5,,,4,,,4
+16,Science Electives,ELEC,,,,,3,,,4
+17,University Core,CORE,,,,,3,,,4
+18,"Math, Probablility or Statistics Elective",ELEC,,,,,3,,,4
+19,Computer Systems,CSCI,366,14;15,,,3,,,5
+20,Software Engineering,ESOF,322,15,,,3,,,5
+21,Multidisciplinary Engineering Design,EGEN,310R,,,,3,,,5
+22,CS Electives,ELEC,,,,,3,,,5
+23,Minor Electives,ELEC,,,,,3,,,5
+24,Concepts/Programming Languages,CSCI,305,5;10,,,3,,,6
+25,Computer Science Theory,CSCI,338,10,,,3,,,6
+26,CS Electives,ELEC,,,,,6,,,6
+27,Minor Electives,ELEC,,,,,3,,,6
+28,Interdisciplinary Project Instruction,CSCI,482R,,,,1,,,7
+29,Science or Math Electives,ELEC,,,,,4,,,7
+30,"Math, Probablility or Statistics Elective",ELEC,,,,,3,,,7
+31,CS Electives,ELEC,,,,,4,,,7
+32,Minor Electives,ELEC,,,,,3,,,7
+33,Program Assessment,CSCI,481,,,,0,,,8
+34,Interdisciplinary Project,CSCI,483R,28,,,3,,,8
+35,Science or Math Electives,ELEC,,,,,3,,,8
+36,CS Electives,ELEC,,,,,6,,,8
+37,Minor Electives,ELEC,,,,,3,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,41 @@
+Curriculum,Art - Studio Arts Option,,,,,,,,,
+Degree Plan,Art - Studio Arts Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BFA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,50.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Art of World Civilization I,ARTH,200IA,,,,4,,,1
+2,Visual Language: Comprehensive Foundation,ARTZ,109RA,,,,3,,,1
+3,Visual Language - Drawing,ARTZ,105RA,,,,3,,,1
+4,Introduction to Adobe,MART,122,,,,2,,,1
+5,University Core and Electives,ELEC,,,,,4,,,1
+6,Visual Language: Ideation and Creativity,ARTZ,110RA,,,,3,,,2
+7,Art of World Civilization II,ARTH,201IA,,,,4,,,2
+8,Art Studio beginning course,ARTZ,2xx,2,,,4,,,2
+9,University Core and Electives,ELEC,,,,,3,,,2
+10,Professional Practices: Careers in Art,ARTZ,210,2;3;6,,,3,,,3
+11,Art Studio beginning course,ARTZ,2xx,2,,,4,,,3
+12,Art History Elective ,ARTH,3xx,,,,3,,,3
+13,University Core and Electives,ELEC,,,,,5,,,3
+14,Art Studio beginning course,ARTZ,2xx,2,,,4,,,4
+15,Art Studio beginning course,ARTZ,2xx,2,,,4,,,4
+16,University Core and Electives,ELEC,,,,,6,,,4
+17,Choose one Major medium course,ARTZ,3xx,14,,,5,,,5
+18,Advanced Studio elective,ARTZ,3xx,14,,,5,,,5
+19,Art History Elective ,ARTH,3xx,,,,3,,,5
+20,University Core and Electives,ELEC,,,,,2,,,5
+21,Choose one Major medium course,ARTZ,3xx,14,,,5,,,6
+22,Advanced Studio elective,ARTZ,3xx,14,,,5,,,6
+23,University Core and Electives,ELEC,,,,,3,,,6
+24,Choose one Major medium course,ARTZ,3xx,14,,,5,,,7
+25,Studio Arts Pre-Thesis,ARTZ,399,,26,,2,,,7
+26,Undergraduate Seminar,ARTZ,494,,,,3,,,7
+27,Art History Elective ,ARTH,3xx,,,,3,,,7
+28,Advanced Studio elective,ARTZ,3xx,14,,,5,,,7
+29,Senior Thesis: Studio,ARTZ,499R,,,,3,,,8
+30,Advanced Studio elective,ARTZ,3xx,14,,,5,,,8
+31,University Core and Electives,ELEC,,,,,7,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

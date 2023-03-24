@@ -1,0 +1,63 @@
+Curriculum,Music Education,,,,,,,,,
+Degree Plan,Music Education,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,Bachelor ,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,13.1312,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Music Theory I,MUSI,105,,,,3,,,1
+2,Aural Perception I,MUSI,140,,,1,1,,,1
+3,Keyboard Skills I,MUSI,135,,,1,1,,,1
+4,Music Theory II,MUSI,106,1,,,3,,,1
+5,Aural Perception II,MUSI,141,2,4,,1,,,1
+6,Keyboard Skills II,MUSI,136,3,4,,1,,,1
+7,Techniques: Percussion,MUSE,134,,,,1,,,1
+8,Techniques: Voice,MUSE,123,,1;2,,1,,,1
+9,Applied Music I,MUSI,195,,,12,1,,,1
+10,Applied Music I,MUSI,195,,,12,1,,,1
+11,Educ Psych & Child Development,EDU,222IS,,,,3,,,1
+12,Ensemble,ELEC,,,,,2,,,1
+13,University Core,CORE,,,,,12,,,1
+14,Music Theory III,MUSI,205,4,,,3,,,2
+15,Aural Perception III,MUSI,240,5,,,1,,,2
+16,Interm Keyboard: Accompanying,MUSI,231,6,,,1,,,2
+17,Music Theory IV,MUSI,206,14,,,3,,,2
+18,Aural Perception IV,MUSI,241,15,17,,1,,,2
+19,Interm Keyboard: Opn Scre Rdng,MUSI,232,6,,,1,,,2
+20,Techniques: Flute & Clarinet,MUSE,130,,,,1,,,2
+21,Techniques: Brass,MUSE,132,,,,1,,,2
+22,Intro to Comp App Music Ed,MUSE,220,,,,2,,,2
+23,Beginning Conducting,MUSE,239,14;15;16,17;18;19,,1,,,2
+24,Music History I,MUSI,301,4,,,3,,,2
+25,Multicultural Education,EDU,211D,11,,,3,,,2
+26,Assessment in Music Education,MUSE,383,11,,,3,,,2
+27,World Music,MUSI,307IA,,,,3,,,2
+28,Applied Music II,MUSI,295,9,,30,1,,,2
+29,Applied Music II,MUSI,295,9,,30,1,,,2
+30,Ensemble,ELEC,,,,,2,,,2
+31,Music History II,MUSI,302,4,,,3,,,3
+32,Music History of 20th and 21st Centuries,MUSI,303,4;24,,,3,,,3
+33,Instrumental Conducting,MUSI,335,17;18;19;26,,,2,,,3
+34,Choral Conducting,MUSI,336,33,,,2,,,3
+35,"Techniques: Sax, Oboe, Bassoon",MUSE,131,,,,1,,,3
+36,Techniques: Strings,MUSE,135,,,,1,,,3
+37,Tchng Practicum: General Music,MUSE,395,,,,1,,,3
+38,Methods: General Music,MUSE,397,16;17;18;26,37,,3,,,3
+39,Instrumental Field Experience,MUSE,437,,,,1,,,3
+40,Methods: Inst Mthds & Lit 5-12,MUSE,497MI,33;38,39,,3,,,3
+41,Vocal Studio Pedagogy and Lit,MUSI,442,16;29,,,2,,,3
+42,Orchestration,MUSI,440,17,,,2,,,3
+43,Exceptional Learners,EDSP,306,11,,,3,,,3
+44,Applied Music III,MUSI,395,28,,46,1,,,3
+45,Applied Music III,MUSI,395,28,,46,1,,,3
+46,Ensemble,ELEC,,,,,2,,,3
+47,Choral Field Experience,MUSE,439,,,,1,,,4
+48,Methods: Chrl Mthds & Lit 5-12,MUSE,497MC,34;40,47,,3,,,4
+49,Senior Capstone Project,MUSI,499R,,,,3,,,4
+50,Applied Music III,MUSI,395,28,,51,1,,,4
+51,Ensemble,ELEC,,,,,1,,,4
+52,Student Teaching,EDU,495,,,,12,,,4
+53,University Core,ELEC,,,,,6,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

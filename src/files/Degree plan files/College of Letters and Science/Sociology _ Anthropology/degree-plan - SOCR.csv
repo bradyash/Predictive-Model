@@ -1,0 +1,25 @@
+Curriculum,Sociology - Criminology and Sociology Option,,,,,,,,,
+Degree Plan,Basic,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,45.1101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,College Writing I,WRIT,101W,,,,3,,,1
+2,Introduction to Statistics,STAT,216Q,,,,3,,,1
+3,University Core and Electives,ELEC,,,,,15,,,1
+4,Introduction to Sociology,SOCI,101IS,,,,3,,,1
+5,University Seminar Core,ELEC,,,,,3,,,1
+6,Diversity Core,ELEC,,,,,3,,,1
+7,SOCI Electives,ELEC,,,,,6,,,2
+8,University Core and Electives,ELEC,,,,,24,,,2
+9,SOCI 311 or SOCI 455,SOCI,311or455,4,,,3,,,3
+10,Sociological Research Methods,SOCI,318R,2;4,,,3,,,3
+11,SOCI Electives,ELEC,,4,,,9,,,3
+12,University Core and Electives,ELEC,,,,,15,,,3
+13,Senior Thesis Capstone,SOCI,499,4;9;10,,,3,,,4
+14,Sociology Electives,ELEC,,,,,15,,,4
+15,University Core and Electives,ELEC,,,,,12,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

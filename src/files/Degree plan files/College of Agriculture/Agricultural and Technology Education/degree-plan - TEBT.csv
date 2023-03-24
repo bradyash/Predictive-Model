@@ -1,0 +1,47 @@
+Curriculum,Technology Education Broadfield Teaching Option,,,,,,,,,
+Degree Plan,Technology Education Broadfield Teaching Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,13.1319,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Leadership Dev For Agriculture,AGED,140US,,,,3,,,1
+2,Indiv and Fam Dev: Lifespan,HDFS,101IS,,,,3,,,1
+3,Precalculus,M,151Q,,,,4,,,1
+4,Materials and Processes,TE,207,,,,4,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,Introduction to CAD,DDSN,114,,,,3,,,2
+7,Introduction to General Chemistry,CHMY,121IN,,,,3,,,2
+8,Introduction to General Chemistry Lab,CHMY,122IN,,,7,1,,,2
+9,Welding Theory I,WLDG,110,,,,1,,,2
+10,Welding Theory I Practical (University Core Arts or Humanities),WLDG,111,,,,3,,,2
+11,University Core (Arts or Humanities),CORE,A/H,,,,3,,,2
+12,Educ Psych and Adolescent Dev,EDU,223IS,,,,3,,,3
+13,College Physics I,PHSX,205,,,,4,,,3
+14,Welding Theory II Practical,WLDG,121,,,,3,,,3
+15,Directed Elective,ELEC,,,,,3,,,3
+16,University Core (Arts or Humanities),CORE,A/H,,,,3,,,3
+17,Integrating Tech into Educ,EDU,370,12,,,3,,,4
+18,Technology and Society,TE,250CS,,,,3,,,4
+19,Alternative Power/ Energy Tech,TE,330,4,,,3,,,4
+20,Welding Theory II,WLDG,120,,,,2,,,4
+21,Welding Theory III Practical,WLDG,122,,,,3,,,4
+22,Communicating Agriculture,AGED,312R,,,,3,,,5
+23,Construction Technology,AGED,333,,,,3,,,5
+24,"Assessmt, Curric, Instructn",EDU,382,12,,,3,,,5
+25,Intro to GIS Science & Cartog,GPHY,284,,,,3,,,5
+26,Multicultural Education,EDU,211D,12,,,3,,,5
+27,Managing the Learning Environment for K-12/Secondary,EDU,347,,,,2,,,5
+28,Ag Ed in Public Schools,AGED,253,1;2,,,3,,,6
+29,Electrical and Power Systems Operation,AGED,315,,,,3,,,6
+30,Computer Aided and Industrial Machining and Manufacturing,TE,410,6,,,4,,,6
+31,Directed Elective,ELEC,,,,,3,,,6
+32,Educational Methods in CTE,AGED,397,,,36,1,,,7
+33,Laboratory Management and Teaching in CTE,AGED,485,23,,36,3,,,7
+34,Exceptional Learners,EDSP,306,12,,,3,,,7
+35,Manufacturing Technology,TE,417,4,,,3,,,7
+36,Methods: 5-12 Ag & Tech Ed,EDM,411,24,,,3,,,7
+37,Student Teaching,EDU,495R,,,,12,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

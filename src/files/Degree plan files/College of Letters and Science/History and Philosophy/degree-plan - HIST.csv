@@ -1,0 +1,29 @@
+Curriculum,History - History Option,,,,,,,,,
+Degree Plan,History - History Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,54.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Western Civilization I,HSTR,101IH,,,,4,,,1
+2,Introduction to American Studies,AMST,101D,,,,4,,,1
+3,One Year Modern Language,ELEC,,,,,6,,,1
+4,University Core and Electives,ELEC,,,,,14,,,1
+5,Choose one HSTR course,HSTR,1xx,,,,4,,,2
+6,Choose one HSTR course,HSTR,2xx,1,,,3,,,2
+7,Choose one HSTA course,HSTA,3xx,,,,3,,,2
+8,University Core and Electives,ELEC,,,,,19,,,2
+9,Choose one HSTR course,HSTR,3xx,1,,,3,,,3
+10,Choose one HSTR course,HSTR,3xx,1,,,3,,,3
+11,Choose one HSTR course,HSTR,4xx,1,,,3,,,3
+12,University Core and Electives,ELEC,,,,,21,,,3
+13,Sen Capstone: Hist Methodology,HSTR,499R,,,,3,,,4
+14,Choose one HSTA course,HSTA,3xx,1,,,3,,,4
+15,Choose one HSTA course,HSTA,4xx,1,,,3,,,4
+16,Choose one HSTR course,HSTR,3xx,1,,,3,,,4
+17,Choose one HSTR course,HSTR,4xx,1,,,3,,,4
+18,Choose one HSTR course,HSTR,4xx,1,,,3,,,4
+19,University Core and Electives,ELEC,,,,,12,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

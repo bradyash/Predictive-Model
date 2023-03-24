@@ -1,0 +1,23 @@
+Curriculum,Modern Languages - Hispanic Studies Option,,,,,,,,,
+Degree Plan,Modern Languages - Hispanic Studies Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,16.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Elementary Spanish I,SPNS,101,,,,3,,,1
+2,Elementary Spanish II,SPNS,102D,1,,,3,,,1
+3,University Core and Electives,ELEC,,,,,24,,,1
+4,Intermediate Spanish I,SPNS,201D,2,,,3,,,2
+5,Intermediate Spanish II,SPNS,202D,4,,,3,,,2
+6,University Core and Electives,ELEC,,,,,24,,,2
+7,University Core and Electives,ELEC,,,,,21,,,3
+8,Choose one course on Spain,SPNS,3xx,5,,,3,,,3
+9,Choose one course on Spain,SPNS,3xx,5,,,3,,,3
+10,Choose one course on Latin America,SPNS,3xx,5,,,3,,,3
+11,Choose one course on Latin America,SPNS,4xx,5,,,3,,,3
+12,SPNS Electives,ELEC,,5,,,24,,,4
+13,Seminar: Hispanic Literature,SPNS,470R,,,,3,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

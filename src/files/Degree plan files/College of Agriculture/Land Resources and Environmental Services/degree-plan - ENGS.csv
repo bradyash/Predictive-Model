@@ -1,0 +1,48 @@
+Curriculum,Environmental Sciences - Geospatial and Environmental Analysis Option,,,,,,,,,
+Degree Plan,Environmental Sciences - Geospatial and Environmental Analysis Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,3.0104,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Land Resourses and Environmental Sciences,ENSC,110,,,,3,,,1
+2,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+3,College Chemistry I,CHMY,141,,,,3,,,1
+4,College Chemistry I Lab,CHMY,142,,,,1,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,Principles of Living Systems,BIOB,160,,,,4,,,2
+7,College Chemistry II,CHMY,143,3,,3,3,,,2
+8,College Chemistry II Lab,CHMY,144,,,,1,,,2
+9,Survey of Calculus,M,161Q,,,,4,,,2
+10,US Core,ELEC,,,,,3,,,2
+12,Soils,ENSC,245IN,,,,3,,,3
+13,Earth System Sciences,ERTH,101IN,,,,4,,,3
+14,Intro to GIS Science & Cartog,GPHY,284,,,,3,,,3
+15,Introduction to Statistics,STAT,216Q,,,,3,,,3
+16,Univ. Core,ELEC,,,,,3,,,3
+17,Role of Plants in the Environment,ENSC,210,6,,,3,,,4
+18,Evolution for Env Scientists,ENSC,260,6,,,3,,,4
+19,College Physics I,PHSX,205,,,,4,,,4
+20,Intermediate Statistical Concepts,STAT,217Q,15,,,3,,,4
+21,College Writing II,WRIT,201,5,,,3,,,4
+22,Environmental Biogeochemistry,ENSC,353,7;12,,,3,,,5
+23,General Ecology,BIOE,370,2,,,3,,,5
+24,GPS Fund/App in Mapping,GPHY,357,14,,,3,,,5
+25,Univ. Core,ELEC,,,,,3,,,5
+26,Directed Elective,ELEC,,,,,3,,,5
+27,Adv GIS and Spatial Analysis,GPHY,384,14,,,3,,,6
+28,Univ. Core,ELEC,,,,,3,,,6
+29,Directed Electives,ELEC,,,,,9,,,6
+30,Watershed Hydrology,ENSC,444,9;12,,,3,,,7
+31,Landscape Pedology,ENSC,454,12,,,3,,,7
+32,LRES Capstone,ENSC,499R,,,,3,,,7
+33,Univ. Core,ELEC,,,,,3,,,7
+34,Directed Elective,ELEC,,,,,3,,,7
+35,Computational Techniques Environmental Science,ENSC,464,2,,,3,,,8
+36,Applied Remote Sensing,GPHY,429R,,,,3,,,8
+37,Applied GIS & Spatial Analysis,GPHY,484R,20;27,,,3,,,8
+38,Natural Resource Law,NRSM,430,21,,,3,,,8
+39,Directed Elective,ELEC,,,,,2,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

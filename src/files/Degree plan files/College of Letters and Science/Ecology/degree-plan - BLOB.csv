@@ -1,0 +1,38 @@
+Curriculum,Biological Sciences - Organismal Biology,,,,,,,,,
+Degree Plan,Biological Sciences - Organismal Biology,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+2,College Chemistry I,CHMY,141,,,,3,,,1
+3,College Chemistry I Lab,CHMY,142,,,2,1,,,1
+4,Introduction to Public Speaking,COMX,111US,,,,3,,,1
+5,"University Core, Electives, or Math pre-reqs",ELEC,,,,,3,,,1
+6,Principles of Living Systems,BIOB,160,,,,4,,,2
+7,College Chemistry II,CHMY,143,2,,,3,,,2
+8,College Chemistry II Lab,CHMY,144,,,7,1,,,2
+9,"University Core, Electives, or Math pre-reqs",ELEC,,,,,6,,,2
+10,College Physics I,PHSX,205,,,,4,,,3
+11,Biometry,BIOB,318,,,,3,,,3
+12,College Physics II,PHSX,207,10,,,4,,,3
+13,Elements of Organic Chemistry,CHMY,211,7,,,4,,,3
+14,Elements of Organic Chemistry Lab,CHMY,212,8,,13,1,,,3
+15,University Core or Electives,ELEC,,,,,3,,,3
+16,Biochemistry,BCH,380,6;13,,,4,,,4
+17,Biochemistry Lab,BCH,381,,,16,1,,,4
+18,Survey of Calculus,M,161Q,,,,4,,,4
+19,University Core or Electives,ELEC,,,,,6,,,4
+20,General Genetics,BIOB,375,6,,,3,,,5
+21,University Core or Electives,ELEC,,,,,11,,,5
+22,General Ecology,BIOE,370,1,,,3,,,6
+23,Evolution,BIOB,420,20,,,3,,,6
+24,Physiology Course Choice,ELEC,,,,,3,,,6
+25,Biology Electives,ELEC,,,,,6,,,6
+26,Biology Electives,ELEC,,,,,15,,,7
+27,Senior Thesis/Capstone,BIOE,499,,,,2,,,8
+28,Biology Electives,ELEC,,,,,12,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

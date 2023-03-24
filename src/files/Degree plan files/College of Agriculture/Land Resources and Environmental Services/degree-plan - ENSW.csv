@@ -1,0 +1,47 @@
+Curriculum,Environmental Sciences - Soil and Water Science Option,,,,,,,,,
+Degree Plan,Environmental Sciences - Soil and Water Science Option,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,3.0104,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Land Resourses and Environmental Sciences,ENSC,110,,,,3,,,1
+2,Principles of Biological Diversity,BIOB,170IN,,,,4,,,1
+3,College Chemistry I,CHMY,141,,,,3,,,1
+4,College Chemistry I Lab,CHMY,142,,,3,1,,,1
+5,College Writing I,WRIT,101W,,,,3,,,1
+6,Principles of Living Systems,BIOB,160,3,,,4,,,2
+7,College Chemistry II,CHMY,143,3,,,3,,,2
+8,College Chemistry II Lab,CHMY,144,,,7,1,,,2
+9,Survey of Calculus,M,161Q,,,,4,,,2
+10,US Core,,US,,,,3,,,2
+11,Soils,ENSC,245IN,9,,,3,,,3
+12,Earth System Sciences,ERTH,101IN,,,,4,,,3
+13,Intro to GIS Science & Cartog,GPHY,284,,,,3,,,3
+14,Biometry,BIOB,318,9,,,3,,,3
+15,Univ. Core,CORE,,,,,3,,,3
+16,Role of Plants in the Environment,ENSC,210,6,,,3,,,4
+17,Evolution for Env Scientists,ENSC,260,6,,,3,,,4
+18,College Physics I,PHSX,205,,,,4,,,4
+19,College Writing II (HONR 202IH),WRIT,201,5,,,3,,,4
+20,Univ. Core,CORE,,,,,3,,,4
+21,Environmental Biogeochemistry,ENSC,353,7;11,,,3,,,5
+22,Principles of Geomorphology,ERTH,307,12;13,,,4,,,5
+23,General Ecology,BIOE,370,2;14,,,3,,,5
+24,Univ. Core,CORE,,,,,3,,,5
+25,Directed Elective,ELEC,,,,,3,,,5
+26,Elements of Organic Chemistry,CHMY,211,7,,,4,,,6
+27,Elements of Organic Chemistry Lab,CHMY,212,8,,26,1,,,6
+28,Soil & Envirnmntl Microbiology,BIOM,452,7;11,,,3,,,6
+29,Ecosystem Biogeochem and Global Change,ENSC,468,21,,,3,,,6
+30,Univ. Core,CORE,,,,,3,,,6
+31,Watershed Hydrology,ENSC,444,11;9;18,,,3,,,7
+32,Landscape Pedology,ENSC,454,11,,,3,,,7
+33,LRES Capstone,ENSC,499R,,,,3,,,7
+34,Take one of the following,,4xx,,,,3,,,7
+35,Directed Elective,ELEC,,,,,3,,,7
+36,Take one of the following ENSC courses,ENSC,4xx,,,,3,,,8
+37,Directed Electives,ELEC,,,,,11,,,8
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

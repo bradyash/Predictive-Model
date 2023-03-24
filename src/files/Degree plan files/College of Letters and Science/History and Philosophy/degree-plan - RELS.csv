@@ -1,0 +1,33 @@
+Curriculum,Religious Studies,,,,,,,,,
+Degree Plan,Religious Studies,,,,,,,,,
+Institution,Montana State University,,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,semester,,,,,,,,,
+CIP,,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,Knowledge and Community,CLS,101US,,,,3,,,1
+2,College Writing I,WRIT,101W,,,,3,,,1
+3,Intro to the Study of Religion,RLST,100D,,,,3,,,1
+4,One Year Foreign Language,ELEC,,,,,8,,,1
+5,Other University Core and Electives,ELEC,,,,,13,,,1
+6,Hindu Traditions,RLST,202D,,,,3,,,2
+7,Islam,RLST,201,,,,3,,,2
+8,Choose one lower division RLST course,RLST,2xx,,,,3,,,2
+9,Choose one lower division RLST course,RLST,2xx,,,,3,,,2
+10,University Core and Electives,ELEC,,,,,18,,,2
+11,Choose one upper division RLST course,RLST,3xx,,,,3,,,3
+12,Choose one upper division RLST course,RLST,3xx,,,,3,,,3
+13,Choose one upper division RLST course,RLST,3xx,,,,3,,,3
+14,Choose one Methodology course,ELEC,,,,,3,,,3
+15,Choose one Methodology course,ELEC,,,,,3,,,3
+16,University Core and Electives,ELEC,,,,,15,,,3
+17,Senior Capstone,RLST,499RH,,,,3,,,4
+18,Choose one upper division RLST course,RLST,4xx,,,,3,,,4
+19,Choose one upper division RLST course,RLST,4xx,,,,3,,,4
+20,Choose one upper division RLST course,RLST,2xx,,,,3,,,4
+21,Choose one upper division RLST course,RLST,3xx,,,,3,,,4
+22,Choose one upper division RLST course,RLST,4xx,,,,3,,,4
+23,Electives,ELEC,,,,,12,,,4
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
