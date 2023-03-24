@@ -13,6 +13,13 @@ public class Client {
     public static void main(String[] args) throws IOException {
         //gui app = new gui();
 
+        /*
+        *
+        * TODO: Change how major names are checked and stored
+        * TODO: Majors not found issues
+        *
+        * */
+
         //Test Suite
         File majorCodes = new File("C:\\Users\\j11q863\\IdeaProjects\\Predictive-Model\\src\\files\\MajorsCodesNewStudentCounts202270 - MajorsCodes.csv");
         File directory = new File("C:\\Users\\j11q863\\IdeaProjects\\Predictive-Model\\src\\files\\Degree plan files");
