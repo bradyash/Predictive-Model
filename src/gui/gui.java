@@ -106,14 +106,20 @@ public class gui {
 
     //opens the output file
     public void openFile(ActionEvent e, Component c, JTextField j) throws BadLocationException, IOException {
+        //handling the click action
         if (e.getSource() == c) {
             String input = j.getText();
             appendText("--> " + input);
+
+            //if the user types in yes, attempt to open the class file
             if(input.toLowerCase().equals("yes")) {
                 File file = getFile();
                 Desktop.getDesktop().open(file);
                 appendText("\nThank you for running the program!");
-            } else if (input.equals("1")) {
+            }
+
+            // if the user types in 1, aggregate the program by class totals and set file to the created .csv
+            else if (input.equals("1")) {
                 appendText("Aggregating class totals..");
                 HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(getMajors());
 
@@ -131,7 +137,10 @@ public class gui {
                     setFile(output);
                 }
                 appendText("\nWould you like to view the .csv file?\nEnter yes/no in bottom text box, and then course/major for a different view option!");
-            } else if (input.equals("2")) {
+            }
+
+            //if the user types in 2, aggregate class totals by Major and set file to the created .csv
+            else if (input.equals("2")) {
                 HashMap<String, Major> m = getMajors();
                 for (String major : m.keySet()) {
                     m.get(major).setCourseTotals();
@@ -151,6 +160,9 @@ public class gui {
                 }
                 appendText("Outputted to file out.csv. To view, type yes and hit enter!");
             }
+
+
+            //error handling
             else {
                 appendText("Incorrect input, try again");
             }
