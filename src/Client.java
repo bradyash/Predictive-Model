@@ -16,7 +16,7 @@ public class Client {
         /*
         *
         * TODO: Change how major names are checked and stored
-        * TODO: Majors not found issues
+        * TODO: Majors not found issues -- 34 majors not found
         *
         * */
 
@@ -34,14 +34,14 @@ public class Client {
         HashMap<String, ArrayList<String>> dictHash = dict.getDictionary();
 
         //      print out dict contents
-        for (String s : dictHash.keySet()) {
+        /*for (String s : dictHash.keySet()) {
             ArrayList<String> vals = dictHash.get(s);
             System.out.print("Key: " + s + " Value: ");
             for (String val : vals) {
                 System.out.print(val + " ");
             }
             System.out.println();
-        }
+        }*/
 
         System.out.println("======================================");
         System.out.println("ReadEnrolled.readCsv");
@@ -49,10 +49,10 @@ public class Client {
 
         //Testing importing majors based on the Dictionary
         HashMap<String, Major> majors = ReadEnrolled.readCsv(dict);
-        for (String s : majors.keySet()) {
+        /*for (String s : majors.keySet()) {
             Major temp = majors.get(s);
             System.out.println("Major Name: [" + temp.getName() + "] Enrolled: [" + temp.getEnrolled() + "]"    );
-        }
+        }*/
 
         System.out.println("======================================");
         System.out.println("CollectFiles.java");
@@ -61,9 +61,9 @@ public class Client {
         //Testing CollectFiles.java
         ArrayList<File> plans = CollectFiles.collectFiles(directory);
         System.out.println("Size: " + plans.size());
-        for (File plan : plans) {
+        /*for (File plan : plans) {
             System.out.println(plan.getPath());
-        }
+        }*/
 
         System.out.println("======================================");
         System.out.println("ReadPlans.java");
@@ -74,13 +74,13 @@ public class Client {
             ReadPlans.readPlan(majors, plan, dict);
         }
         ArrayList<Course> c = new ArrayList<>();
-        for (String s : majors.keySet()) {
+        /*for (String s : majors.keySet()) {
             c = majors.get(s).getCourses();
             System.out.println("Major: " + s + " Course count: " + c.size());
             for (int x = 0; x < c.size(); x++) {
                 System.out.println("                     " + c.get(x).getName());
             }
-        }
+        }*/
 
         //Testing aggregation of .csv and output
         HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);

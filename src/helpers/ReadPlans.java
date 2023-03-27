@@ -36,70 +36,33 @@ public class ReadPlans {
                 return error;
         }
 
-        //TODO: Dictionary for major names??
 
+        // Grabs the file name, splitting on either a '-', '.', or ' '
         String[] splitPathName = file.getName().split("[-. ]"); // degree-plan - ESGL
         String name = "";
-        for (String s : splitPathName) {
+
+        //For testing, prints out each part of the split file path
+        /*for (String s : splitPathName) {
             System.out.print("[" + s+ "]" + " ");
         }
-        System.out.println("");
-        if (dictionary.checkDictionary(splitPathName[4])) {
-            name = splitPathName[4];
-        }
+        System.out.println("");*/
+
+        // Grab the major code
+        name = splitPathName[4];
+
+        //Check that the name is contained within our Major codes hashmap, and add if it is. Otherwise, return a non-fatal error message.
         Major major = null;
         if(majors.containsKey(name)) {
             major = majors.get(name);
         }
-        // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
         else{
-            error = ("ERROR: Major \"" + name + "\" not in system");
+            error = ("ERROR: Major code \"" + name + "\" not in system");
             System.out.println(error);
             return error;
         }
 
-
-       String[] line = read.split(",");
-//        String[]temp = line[1].split("-"); // this line is an issue
-//        String majorName = temp[0].strip();
-//        if ('"' == majorName.charAt(0)) {
-//            majorName = majorName.substring(1);
-//        }
-//        if("K".equals(majorName.substring(majorName.length()-1))) {
-//            char[] secondString = temp[1].strip().toCharArray();
-//            String number = "";
-//            if(Character.isDigit(secondString[0])) {
-//                number = number + secondString[0];
-//                if(secondString.length > 1 && Character.isDigit(secondString[1])) {
-//                    number = number + secondString[1];
-//                }
-//            }
-//            if(!number.equals("")) {
-//                majorName = majorName + "-" + number;
-//            }
-//        }
-//        if(majorName.contains("Computer Science")) {
-//            majorName = "Computer Science";
-//        }
-//        if(majorName.contains("Cell Biology and Neuroscience")) {
-//            majorName = "Cell Biology and Neuroscience";
-//        }
-//        if(majorName.contains("Integrated Lens")) {
-//            majorName = "Film and Photography";
-//        }
-//        majorName = majorName.replaceAll("[^a-zA-Z0-9& -]", "");
-//        //System.out.println(majorName);
-//
-//        // Initialize the major, and find it in our Hashmap
-//        major = null;
-//        if(majors.containsKey(majorName)) {
-//            major = majors.get(majorName);
-//        }
-//        // If not, there must be an error, and exit. -- THIS MIGHT BE WRONG
-//        else{
-//            error = ("ERROR: Major \"" + majorName + "\" not in system");
-//            return error;
-//        }
+        /// Iterates through the remainder of the file, pulling valid courses associated with each major.
+        String[] line = read.split(",");
 
         // removes trash lines
         while(!"Course ID".equals(line[0]) && read != null) {
