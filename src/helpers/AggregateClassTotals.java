@@ -9,7 +9,6 @@ public class AggregateClassTotals {
 
     public static HashMap<String,Integer> AggregateClassTotals(HashMap<String, Major> majors) {
         HashMap<String,Integer> allCourses = new HashMap<>();
-        //TODO: Errors with aggregation -- Derived from ELEC courses, unsure if can fix
 
         //look at each major
         for (String s : majors.keySet()) {

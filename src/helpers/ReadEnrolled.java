@@ -14,7 +14,7 @@ public class ReadEnrolled {
         HashMap<String, Major> majors = new HashMap<>();
         // Reads in all lines and adds majors.
         for (String s : dictionary.getDictionary().keySet()) {
-            ArrayList<String> vals = dictionary.getDictionary().get(s);
+            //ArrayList<String> vals = dictionary.getDictionary().get(s);
             Major temp = new Major(dictionary.getDictItem(s), dictionary.getDictEnroll(s));
             majors.put(s, temp);
         }

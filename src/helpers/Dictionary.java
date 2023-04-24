@@ -11,7 +11,6 @@ import java.util.HashMap;
 
 public class Dictionary {
     private HashMap<String, ArrayList<String>> dictionary;
-    //Figure out how to make a dictionary here, with helper methods
 
     public Dictionary() {
         dictionary = new HashMap<>();

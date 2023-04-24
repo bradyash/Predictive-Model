@@ -84,7 +84,7 @@ public class Client {
 //
 //        //Testing aggregation of .csv and output
 //        HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(majors);
-//        File csv = SendToCSV.outputByMajor(majors);
+//        File csv = CSV_Output.outputByMajor(majors);
 //
 //        if (csv.isFile()) {
 //            Desktop.getDesktop().open(csv);

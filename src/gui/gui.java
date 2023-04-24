@@ -1,6 +1,5 @@
 package gui;
 
-import classes.Course;
 import classes.Major;
 import helpers.*;
 
@@ -124,7 +123,7 @@ public class gui {
                 HashMap<String,Integer> totals = AggregateClassTotals.AggregateClassTotals(getMajors());
 
                 appendText("Outputting to .CSV...");
-                setFile(SendToCSV.writeToCsv(totals));
+                setFile(CSV_Output.outputByClass(totals));
 
                 appendText("Program Finished!");
 
@@ -147,7 +146,7 @@ public class gui {
                 }
                 setMajors(m);
                 appendText("Iterating through each major");
-                setFile(SendToCSV.outputByMajor(getMajors()));
+                setFile(CSV_Output.outputByMajor(getMajors()));
                 File file = new File(System.getProperty("user.dir"));
                 File output = new File(file.getAbsolutePath() + "\\out.csv");
                 if (output.isFile()) {

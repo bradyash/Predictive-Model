@@ -36,16 +36,9 @@ public class ReadPlans {
                 return error;
         }
 
-
         // Grabs the file name, splitting on either a '-', '.', or ' '
         String[] splitPathName = file.getName().split("[-. ]"); // degree-plan - ESGL
         String name = "";
-
-        //For testing, prints out each part of the split file path
-        /*for (String s : splitPathName) {
-            System.out.print("[" + s+ "]" + " ");
-        }
-        System.out.println("");*/
 
         // Grab the major code
         name = splitPathName[4];

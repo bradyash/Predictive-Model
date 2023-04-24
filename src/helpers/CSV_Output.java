@@ -8,8 +8,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 
-public class SendToCSV {
-    public static File writeToCsv(HashMap<String,Integer> courses) throws IOException {
+public class CSV_Output {
+    public static File outputByClass(HashMap<String,Integer> courses) throws IOException {
         File file = null;
         FileWriter csvWriter = null;
         try {
