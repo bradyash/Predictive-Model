@@ -99,10 +99,6 @@ public class gui {
         return majors;
     }
 
-    public void openEnrolled(ActionEvent e, Component c) {
-
-    }
-
     //opens the output file
     public void openFile(ActionEvent e, Component c, JTextField j) throws BadLocationException, IOException {
         //handling the click action
