@@ -70,10 +70,16 @@ public class ProportionCalculation {
             }
         }
 
+        // TODO - map the major hashmaps together
 
+        for (Integer integer : hashFromHeaders.keySet()) {
+            Major temp = hashFromHeaders.get(integer);
+            if (m.containsKey(temp.getName())) {
+                m.replace(temp.getName(), temp);
+            }
+        }
 
-
-        return null;
+        return m;
     }
 
 }
