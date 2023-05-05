@@ -70,7 +70,7 @@ public class ProportionCalculation {
             }
         }
 
-        // TODO - map the major hashmaps together
+        // Map the hashmaps together
 
         for (Integer integer : hashFromHeaders.keySet()) {
             Major temp = hashFromHeaders.get(integer);
